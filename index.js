@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require("fs")
-
+// initial commits 
 function delay(time) {
   return new Promise(function(resolve) { 
       setTimeout(resolve, time)
