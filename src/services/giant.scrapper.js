@@ -1,5 +1,5 @@
-const puppeteer = require('puppeteer');
-const fs = require('fs');
+import puppeteer from "puppeteer";
+import fs from "fs";
 
 // Function to introduce delay
 function delay(time) {
@@ -83,6 +83,7 @@ async function scrapeYouTubeVideos(query) {
       }
     }
 
+
     // Save the extracted video data to a JSON file
     fs.writeFile(`public/data/${query.replace(/\s+/g, '_')}.json`, JSON.stringify(videos, null, 2), err => {
       if (err) {
@@ -92,68 +93,28 @@ async function scrapeYouTubeVideos(query) {
       }
     });
 
+    
     // Close the browser
     await browser.close();
+
+    return videos;
   } catch (error) {
     console.log(`Error while scraping for query "${query}":`, error);
   }
 }
 
 // Call the function for each query in the array
-async function main() {
-  const queries = [
-    "role base access control",
-    "HTML ",
-    "CSS ",
-    "JavaScript ",
-    "Node.js ",
-    "React.js ",
-    "Next.js ",
-    "MongoDB ",
-    "Express.js ",
-    "python programming",
-    "Django ",
-    "SQL ",
-    "Git ",
-    "Docker ",
-    "Kubernetes ",
-    "AWS ",
-    "Microservices architecture",
-    "Serverless architecture",
-    "CI/CD pipelines",
-    "GraphQL ",
-    "REST API design",
-    "WebSockets ",
-    "JWT Authentication ",
-    "Jest testing in JavaScript",
-    "JavaScript design patterns",
-    "Web performance optimization",
-    "Async in JavaScript",
-    "TypeScript ",
-    "Modern CSS techniques",
-    "Progressive Web Apps development",
-    "Terraform ",
-    "MERN stack ",
-    "Neo4j ",
-    "Kafka ",
-    "React Native development",
-    "Monorepos in software development",
-    "Software architecture patterns",
-    "DevOps practices",
-    "GCP cloud computing",
-    "Cloud computing with AWS",
-    "System design interview preparation",
-    "Event-driven architecture",
-    "SaaS application development",
-    "APIs and microservices",
-    "Data Structures and Algorithms"
-  ];
+async function main(queries) {
+
+  let allVideos = []; // Array to store all videos from all queries
 
   for (const query of queries) {
     await scrapeYouTubeVideos(query);
+    allVideos.push(...videos);
     await delay(5000);
   }
+  return allVideos;
 }
 
 // Start the scraping process
-main();
+export default main

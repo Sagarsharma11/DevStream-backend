@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Role-based access control (RBAC) vs. Attribute-based access control (ABAC)",
+    "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rvZ35YW4t5k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJagVQD6EcLTeZIy_zjmLN6rgtiQ",
+    "channelName": "IBM Technology",
+    "views": "13K views",
+    "uploadTime": "2 months ago"
+  },
+  {
+    "title": "Role-Based Access Control (RBAC) Explained: How it works and when to use it",
+    "url": "https://www.youtube.com/watch?v=4Uya_I_Oxjk&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4Uya_I_Oxjk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7nKgWZVopQxIkdiFFjAFEslrkcQ",
+    "channelName": "Erik Wilde",
+    "views": "52K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Role Based Access Control",
+    "url": "https://www.youtube.com/watch?v=C4NP8Eon3cA&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/C4NP8Eon3cA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFMoOjAP&rs=AOn4CLAnsXNgnK-Tk-IXnWSclEzM71fn-A",
+    "channelName": "Udacity",
+    "views": "201K views",
+    "uploadTime": "8 years ago"
+  },
+  {
+    "title": "AZ-900 Episode 28 | Azure Role-based Access Control (RBAC)",
+    "url": "https://www.youtube.com/watch?v=4v7ffXxOnwU&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4v7ffXxOnwU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpR4RqYrmOfcOLkWO6SgeErJKntg",
+    "channelName": "Adam Marczak - Azure for Everyone",
+    "views": "213K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Explain Access Control Models| Discretionary DAC, Mandatory MAC, RBAC, Rule, Attribute, Risk based",
+    "url": "https://www.youtube.com/watch?v=PjZH-CO1hX0&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PjZH-CO1hX0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM5kPGParxpsfPlV73CWRLQ2KGuQ",
+    "channelName": "CyberPlatter",
+    "views": "35K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Azure Role-based Access Control (RBAC)",
+    "url": "https://www.youtube.com/watch?v=aJJjtKo-7hg&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/aJJjtKo-7hg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARknxoVxl1fN2uNRAbAZ-vcCgh-w",
+    "channelName": "CBT Nuggets",
+    "views": "27K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "What is Role-Based Access Control (RBAC)?",
+    "url": "https://www.youtube.com/watch?v=pkGrMQILaYU&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pkGrMQILaYU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgyICAofzAP&rs=AOn4CLDcRkS1cXBfLktppJsA_sNRdP7yBw",
+    "channelName": "Delinea",
+    "views": "317 views",
+    "uploadTime": "5 months ago"
+  },
+  {
+    "title": "Transition to role-based access control (RBAC) in Azure by 31 August 2024",
+    "url": "https://www.youtube.com/watch?v=071ROXHDcJM&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/071ROXHDcJM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIGUoVTAP&rs=AOn4CLCPL7oaZt_wEmoTT4tDy8ami0tB1Q",
+    "channelName": "BestITCourses",
+    "views": "456 views",
+    "uploadTime": "2 days ago"
+  },
+  {
+    "title": "Role Based Access Control Explained",
+    "url": "https://www.youtube.com/watch?v=LQP9pn551QE&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LQP9pn551QE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClPi0DXRJL7r0SZMvQgI4cYZIbaA",
+    "channelName": "Andy Malone MVP",
+    "views": "7K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Azure Role-Based Access Control Deep Dive",
+    "url": "https://www.youtube.com/watch?v=qFoHDTxkQII&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qFoHDTxkQII/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8D3_6DyDKY0AsunIosVieQrF62w",
+    "channelName": "John Savill's Technical Training",
+    "views": "38K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Functionality and Usage of RBAC - AZ-900 Certification Course",
+    "url": "https://www.youtube.com/watch?v=0iVyJBG06fM&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0iVyJBG06fM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhlIEUoQTAP&rs=AOn4CLCLmqNtF51iy-dW6EtoY0lV6NNRYg",
+    "channelName": "John Savill's Technical Training",
+    "views": "26K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Role-based access control (RBAC) introduction and tutorial",
+    "url": "https://www.youtube.com/watch?v=Lwnk-pE_uYQ&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Lwnk-pE_uYQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvmVr6Q6EG4BoJbKpNgs2pMnW8ug",
+    "channelName": "Logto",
+    "views": "1.8K views",
+    "uploadTime": "6 months ago"
+  },
+  {
+    "title": "Snowflake  -  Role Based Access Control - Theory",
+    "url": "https://www.youtube.com/watch?v=uyYoz1JfuxM&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/uyYoz1JfuxM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAMiVERPaCX986xrVBQMM2Dx4zxA",
+    "channelName": "Janardhan Reddy Bandi",
+    "views": "8.8K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Overview of Azure Role Based Access Control (RBAC).",
+    "url": "https://www.youtube.com/watch?v=yl6NZ3o9Ogc&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yl6NZ3o9Ogc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMzOqVt7sfXw_MCK9ufNDGLsWNlA",
+    "channelName": "The Journey of DevOps",
+    "views": "5K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Configuring Role Based Access Control",
+    "url": "https://www.youtube.com/watch?v=vdB9fTKnP4g&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vdB9fTKnP4g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArqHVNVhZuq4ffz36NpqfESj73PQ",
+    "channelName": "Jim Dickson",
+    "views": "28K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Access control in System Protection | Role Based Access Control(RBAC) | OPERATING SYSTEMS",
+    "url": "https://www.youtube.com/watch?v=IjcBZ5cHevk&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IjcBZ5cHevk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhF5upUMk78hkEnBu61ba2B-E-KA",
+    "channelName": "Shashi KS",
+    "views": "10K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Role Based Access Control",
+    "url": "https://www.youtube.com/watch?v=_kuTP4wdoxk&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_kuTP4wdoxk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtj1AqQ1d36uh_7_Hh9mXp6xn7Eg",
+    "channelName": "Concepts Work",
+    "views": "25K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "Access Management & RBAC(Role based Access Control) in Azure FULL DEMO in Hindi | Azure tutorial",
+    "url": "https://www.youtube.com/watch?v=iPbVnD10gY0&pp=ygUYcm9sZSBiYXNlIGFjY2VzcyBjb250cm9s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iPbVnD10gY0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsEsQ07KOHQSZTe-zkCzqYgZgWOA",
+    "channelName": "Cloud Tech Burner",
+    "views": "2.4K views",
+    "uploadTime": "1 year ago"
+  }
+]
