@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Session vs Token Authentication in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=UBUNrFtufWo&t=68s&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UBUNrFtufWo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8AyNG4aq6Nak7MsaW_koTihLLAQ",
+    "channelName": "Fireship",
+    "views": "1M views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Secure Your .NET API in 15 Minutes: JWT Authentication Tutorial",
+    "url": "https://www.youtube.com/watch?v=6DWJIyipxzw&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6DWJIyipxzw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBip_R_ihH9HCx9sTyB8kkoki259g",
+    "channelName": "Milan Jovanović",
+    "views": "3.9K views",
+    "uploadTime": "21 hours ago"
+  },
+  {
+    "title": "Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation [NEW] [2023]",
+    "url": "https://www.youtube.com/watch?v=KxqlJblhzfI&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KxqlJblhzfI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL2dMBgq1cLiJflcKLG7QnYOfKOw",
+    "channelName": "Amigoscode",
+    "views": "772K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "JWT Authentication in NodeJS",
+    "url": "https://www.youtube.com/watch?v=mGrVmEex6_g&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mGrVmEex6_g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn_taxQLNQKWvQM1Vpa1kaLLBf0A",
+    "channelName": "Piyush Garg",
+    "views": "94K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Token vs Session Authentication | Authentication Explained!!!",
+    "url": "https://www.youtube.com/watch?v=QzntvHz23tw&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/QzntvHz23tw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9eJbRGSUf_KpSnXRAILp8-ptraQ",
+    "channelName": "Piyush Garg",
+    "views": "42K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Spring Boot + Spring Security + JWT from scratch - Java Brains",
+    "url": "https://www.youtube.com/watch?v=X80nJ5T7YpE&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/X80nJ5T7YpE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIX0PR049Sd1c84ZDGuuQVnq28ig",
+    "channelName": "Java Brains",
+    "views": "1M views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "[Full Course] |🚀 Master Integration Testing in .NET 8 Web API: Ensure Seamless Application Flow! 🔗✨",
+    "url": "https://www.youtube.com/watch?v=c4EwlWtqEYg&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/c4EwlWtqEYg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3cd_97dG_wSzgaA_sLAFHGUecag",
+    "channelName": "Netcode-Hub",
+    "views": "182 views",
+    "uploadTime": "18 hours ago"
+  },
+  {
+    "title": "How to Use JWT Authorization",
+    "url": "https://www.youtube.com/watch?v=dLxCpd3IGys&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/dLxCpd3IGys/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhRQQcnxCxRtTjxT01tDrWQH2sHg",
+    "channelName": "Postman",
+    "views": "62K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "#38 Spring Security | Validating JWT Token",
+    "url": "https://www.youtube.com/watch?v=ZhtF4i-iB1A&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ZhtF4i-iB1A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPH79Md8AO5O4vf34oecbDLo1Y3Q",
+    "channelName": "Telusko",
+    "views": "3.6K views",
+    "uploadTime": "3 weeks ago"
+  },
+  {
+    "title": "Spring Boot 3.0  + Spring Security 6 | JWT Authentication & Authorization | JavaTechie",
+    "url": "https://www.youtube.com/watch?v=NcLtLZqGu2M&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/NcLtLZqGu2M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaSmAdS3iqgtLF-H_vHAwdUVmVWw",
+    "channelName": "Java Techie",
+    "views": "166K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Complete Spring Security with JWT Authentication | Spring Security 6 | Securing Spring Boot",
+    "url": "https://www.youtube.com/watch?v=GH7L4D8Q_ak&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GH7L4D8Q_ak/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoR5yDfBdPaRdsRr1xYboDzRP9dw",
+    "channelName": "EmbarkX | Learn Programming",
+    "views": "49K views",
+    "uploadTime": "3 months ago"
+  },
+  {
+    "title": "What is JWT ? JSON Web Token Explained",
+    "url": "https://www.youtube.com/watch?v=p_sDlCyzUFU&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/p_sDlCyzUFU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlSEk55PopY1nVzOSEEAR9po1kZQ",
+    "channelName": "Techno Saviour",
+    "views": "53K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "JWT (Json Web Token) Session-1 | by Mr. Raghu",
+    "url": "https://www.youtube.com/watch?v=feETfZbvu-k&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/feETfZbvu-k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF3wAj3jAw8v5bEYR1rkr56NBPQQ",
+    "channelName": "Naresh i Technologies",
+    "views": "42K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Adding JWT Authentication & Authorization in ASP.NET Core",
+    "url": "https://www.youtube.com/watch?v=mgeuh8k3I4g&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mgeuh8k3I4g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF3PPz6qh6iw2LUdP5zfL3lLUTEw",
+    "channelName": "Nick Chapsas",
+    "views": "206K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "JSON Web Tokens (JWT) in .NET 6 Web API 🔒 - User Registration / Login / Authentication",
+    "url": "https://www.youtube.com/watch?v=KHXYdIueipc&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KHXYdIueipc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiVZ7cOGCT3qJq0qghrgWxT27zxg",
+    "channelName": "Manoj Deshwal",
+    "views": "78K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Create APIs With JWT Authentication In Laravel For Beginners In Hindi | Create API With JWT Laravel",
+    "url": "https://www.youtube.com/watch?v=2DArdBdIjEM&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2DArdBdIjEM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHWikqZ1wFYpg5k-GepCDeMn7e-Q",
+    "channelName": "Programming Experience",
+    "views": "24K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Token based authentication in ASP.NET Web API | ASP.NET Web API",
+    "url": "https://www.youtube.com/watch?v=CAgUtYrt_mY&pp=ygUeSldUIEF1dGhlbnRpY2F0aW9uIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CAgUtYrt_mY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA7RRrUgPGSu_s6gQd452SzW2Ccg",
+    "channelName": "Satyarth Programming Hub",
+    "views": "23K views",
+    "uploadTime": "1 year ago"
+  }
+]

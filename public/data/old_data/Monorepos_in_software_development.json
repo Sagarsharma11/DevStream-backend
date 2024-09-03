@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx",
+    "url": "https://www.youtube.com/watch?v=9iU_IE6vnJ8&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9iU_IE6vnJ8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTYamlqn-LKDXnbQSfWoCwOvC7DQ",
+    "channelName": "Fireship",
+    "views": "687K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Monorepos: What You Need To Know | Rohan Prasad",
+    "url": "https://www.youtube.com/watch?v=6LoqigJpifg&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6LoqigJpifg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB11opCJTEYrZbN6macLt9dhT6Bhw",
+    "channelName": "Rohan Prasad",
+    "views": "8.3K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Monorepos with Microfrontends - From Development to Deployment",
+    "url": "https://www.youtube.com/watch?v=LmH1dVYaibE&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LmH1dVYaibE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuWorvyhxp3_VKTG7mQk6oQP6utA",
+    "channelName": "Publicis Sapient India",
+    "views": "1.1K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "How to work with Monorepos in a dev container",
+    "url": "https://www.youtube.com/watch?v=o5coAL7oE0o&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/o5coAL7oE0o/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD2wbYFrUPXZSqHfgZOwz4AnYW7Lg",
+    "channelName": "Visual Studio Code",
+    "views": "47K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Benjy Weinberger - Python monorepos: what, why and how",
+    "url": "https://www.youtube.com/watch?v=p4stnR1gCR4&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/p4stnR1gCR4/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARgTIDEofzAP&rs=AOn4CLDEZFi5i_uf9jUYhcgf0E3S2P_4LA",
+    "channelName": "EuroPython Conference",
+    "views": "1.5K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Marcel Cutts - MonoRepos for the Masses | ReactNext 2018",
+    "url": "https://www.youtube.com/watch?v=rdeBtjBNcDI&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rdeBtjBNcDI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi_l5VUcoOqDIiBVTuB3a1YMSi8w",
+    "channelName": "ReactNext",
+    "views": "17K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "Monorepos: Any Size Fits All, by Altan Stalker",
+    "url": "https://www.youtube.com/watch?v=elKsZvowdok&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/elKsZvowdok/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzk5n4FDxgBLYZcmDRKvQ17P6oiw",
+    "channelName": "JetBrains",
+    "views": "5.2K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "I used a Monorepo for 12 months - here’s my opinion",
+    "url": "https://www.youtube.com/watch?v=rcmdyQL2DUM&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rcmdyQL2DUM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNR_49qK4cju63Pv64P2Mwr8v6BA",
+    "channelName": "Software Developer Diaries",
+    "views": "25K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Developing in a large monorepo",
+    "url": "https://www.youtube.com/watch?v=XF-_GT_abGA&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XF-_GT_abGA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy9efq7QhiPDS5lqOclLy-woj9EQ",
+    "channelName": "Hasgeek TV",
+    "views": "12K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Dependency Hell, Monorepos and beyond",
+    "url": "https://www.youtube.com/watch?v=VNqmHJtItCs&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/VNqmHJtItCs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIHmOw_mRv7_RJDFz8F0LTW8HJGw",
+    "channelName": "DevOps Conference",
+    "views": "25K views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Working with large monorepos for web development",
+    "url": "https://www.youtube.com/watch?v=g0QIZG3T0Po&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/g0QIZG3T0Po/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJArAvHrowg8QjlK033EJrxWTgFg",
+    "channelName": "Hasgeek TV",
+    "views": "334 views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "What is a monorepo? | Getting started with nx",
+    "url": "https://www.youtube.com/watch?v=pY10RVeAnbc&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pY10RVeAnbc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCufNRVgqSDGQihzLjvpIuhNuZkZQ",
+    "channelName": "Coding Garden",
+    "views": "9.4K views",
+    "uploadTime": "7 months ago"
+  },
+  {
+    "title": "Developing in a Large Monorepo - Jai Santhosh - JSConf Korea",
+    "url": "https://www.youtube.com/watch?v=pTi0MQbD7No&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pTi0MQbD7No/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj-jYpqa6mBN66UVA3y2qx7s6COg",
+    "channelName": "JSConf",
+    "views": "3.9K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Monorepos in the Wild - Markus Oberlehner @ WeAreDevelopers Conference 2017",
+    "url": "https://www.youtube.com/watch?v=kwhOI4mmqnM&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kwhOI4mmqnM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5CXxXokJQeQ-pdOf9PbNR8qocMQ",
+    "channelName": "WeAreDevelopers",
+    "views": "2.6K views",
+    "uploadTime": "7 years ago"
+  },
+  {
+    "title": "Better code sharing through monorepos?",
+    "url": "https://www.youtube.com/watch?v=0_qhdOeMuhk&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0_qhdOeMuhk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoTdEq0l-zKBVj8QG_WvND16e0Qg",
+    "channelName": "Fun Fun Function",
+    "views": "28K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "CI/CD for Monorepos",
+    "url": "https://www.youtube.com/watch?v=LsTxP6aFfSo&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LsTxP6aFfSo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNIjCs_7yzUmsjLBAOPViouuVgBw",
+    "channelName": "Semaphore CI",
+    "views": "8K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Exploring the Impact of Monorepo in DevOps #git #gittips #continuousimprovement #softwaredevelopment",
+    "url": "https://www.youtube.com/shorts/XFRe8o471Ak",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XFRe8o471Ak/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIFgoRTAP&rs=AOn4CLByk0oM8avpy5kefenpRfL_JM881w",
+    "channelName": "Devops Universe",
+    "views": "22 views",
+    "uploadTime": "2 months ago"
+  },
+  {
+    "title": "Discover the revolutionary approach to DevOps with Monorepos!  #git #gittips #softwaredevelopment",
+    "url": "https://www.youtube.com/shorts/Llr7hJm4E54",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Llr7hJm4E54/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhkIGQoZDAP&rs=AOn4CLDjLmZmh6-dyGbdCDIYa8GNX5QnNw",
+    "channelName": "Devops Universe",
+    "views": "5 views",
+    "uploadTime": "2 months ago"
+  },
+  {
+    "title": "How your Monorepo breaks the IDE, and what comes next",
+    "url": "https://www.youtube.com/watch?v=zK2pmeG4ia4&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zK2pmeG4ia4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsEDNpyaKpelvk91FDXomPD4ryqw",
+    "channelName": "Google Open Source",
+    "views": "1.5K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Monorepo VS Polyrepo",
+    "url": "https://www.youtube.com/watch?v=avnByO69eI8&pp=ygUhTW9ub3JlcG9zIGluIHNvZnR3YXJlIGRldmVsb3BtZW50",
+    "thumbnailUrl": "https://i.ytimg.com/vi/avnByO69eI8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_mYXVVSX1Eus0LVUfGp3ckqo3hQ",
+    "channelName": "Tom Baranowicz",
+    "views": "11K views",
+    "uploadTime": "2 years ago"
+  }
+]

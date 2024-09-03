@@ -1,8 +1,12 @@
 import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
+import morgan from "morgan";
 
 const app = express();
+
+// Use morgan to log requests in the 'dev' format
+app.use(morgan('dev'));
 
 app.use(cors({
     origin: "*",

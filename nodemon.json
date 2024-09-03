@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ignore": ["public/data/*"],
+    "ext": "js,json",
+    "exec": "node -r dotenv/config --experimental-json-modules src/server.js"
+  }
+  

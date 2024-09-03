@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Terraform in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=tomUWcQ0P3k&t=5s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tomUWcQ0P3k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6R4NgOELcXBheIzA7eqkYytqV6g",
+    "channelName": "Fireship",
+    "views": "534K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)",
+    "url": "https://www.youtube.com/watch?v=7xngnjfIlK4&t=56s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7xngnjfIlK4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwkv27NlhEG7shfRq8NfyRKM-J5w",
+    "channelName": "DevOps Directive",
+    "views": "785K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Terraform Course - Automate your AWS cloud infrastructure",
+    "url": "https://www.youtube.com/watch?v=SLB_c_ayRMo&t=1251s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SLB_c_ayRMo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsLne_-lNA0zM3WmaLmjCbiYytqA",
+    "channelName": "freeCodeCamp.org",
+    "views": "1.9M views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+    "url": "https://www.youtube.com/watch?v=l5k1ai_GBDE&t=30s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/l5k1ai_GBDE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHamvq4xhlGpYz8jJn5B28rIwkQ",
+    "channelName": "TechWorld with Nana",
+    "views": "1.6M views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "What is Terraform? 🤔 #devops #infrastructureascode",
+    "url": "https://www.youtube.com/shorts/iDOA3jN7AUY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iDOA3jN7AUY/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARgvIFwocjAP&rs=AOn4CLA2g5zTaVZl3HWRkEl3DxSC8FaLew",
+    "channelName": "Cloud Champ",
+    "views": "34K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Beginners Tutorial to Terraform with AWS",
+    "url": "https://www.youtube.com/watch?v=XxTcw7UTues&t=147s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XxTcw7UTues/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmXgaiut1kaTDkUVc5iyO1Y0t0xQ",
+    "channelName": "Wahl Network",
+    "views": "88K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Day-8 | Most Asked Interview Scenarios | #terraform #abhishekveeramalla",
+    "url": "https://www.youtube.com/watch?v=-4IMy5ihiiU&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-4IMy5ihiiU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIvptMiRp846gWDpqO_rPlB74HUA",
+    "channelName": "Abhishek.Veeramalla",
+    "views": "38K views",
+    "uploadTime": "11 months ago"
+  },
+  {
+    "title": "Building Azure Infrastructure Using Terraform",
+    "url": "https://www.youtube.com/watch?v=rHmty-ar1tc&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rHmty-ar1tc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJumHkzTEXF3crTUqajhVTKmJX2Q",
+    "channelName": "Microsoft Reactor",
+    "views": "237 views",
+    "uploadTime": "Streamed 21 hours ago"
+  },
+  {
+    "title": "Create EKS Cluster with VPC using Terraform | Real Time Terraform Modules Implementation",
+    "url": "https://www.youtube.com/watch?v=_BTpd2oYafM&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_BTpd2oYafM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwlKDLtVydsOjwGG23m-mcK8B1hg",
+    "channelName": "Abhishek.Veeramalla",
+    "views": "32K views",
+    "uploadTime": "5 months ago"
+  },
+  {
+    "title": "Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=V53AHWun17s&t=324s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/V53AHWun17s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP3_pJ0jBFC-NdU0bfsjGVtE1kng",
+    "channelName": "freeCodeCamp.org",
+    "views": "195K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "CODE 2755: Live Coding: Terraforming Your vSphere Environment",
+    "url": "https://www.youtube.com/watch?v=3rE2ohOV_5U&t=210s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3rE2ohOV_5U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfhtUj1E1XCf7BrSNxmaTscnmahw",
+    "channelName": "VMware {code}",
+    "views": "21K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Use Terraform for FAST Automated deployments #shorts",
+    "url": "https://www.youtube.com/shorts/GLQ5PTUmvwQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GLQ5PTUmvwQ/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBlAOAAtAFigIMCAAQARhlIF4oVDAP&rs=AOn4CLAcDYMSzAyF3j0QoF-qexWTjfTHvw",
+    "channelName": "Akamai Developer",
+    "views": "23K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Terraform — Terraform Language",
+    "url": "https://www.youtube.com/watch?v=M0yTVtZH_hg&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/M0yTVtZH_hg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLD5y9ZYUIfYr_uXLHCa14lS8QtFkA",
+    "channelName": "ExamPro",
+    "views": "603 views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Forget ClickOps, here's how I use Terraform.",
+    "url": "https://www.youtube.com/shorts/Rp87OlKJwg0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Rp87OlKJwg0/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgRIFoocjAP&rs=AOn4CLCUSIrZebAPjY2fYGfZ5NGIEx42kw",
+    "channelName": "CodingEntrepreneurs",
+    "views": "10K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Terraform AWS modules live-coding",
+    "url": "https://www.youtube.com/watch?v=LaV1X1-mZZM&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LaV1X1-mZZM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe4FuWp_htxzsXlouPsXTZWiMkYA",
+    "channelName": "Anton Babenko",
+    "views": "390 views",
+    "uploadTime": "Streamed 3 years ago"
+  },
+  {
+    "title": "Terraform: Coding an AWS Configuration",
+    "url": "https://www.youtube.com/watch?v=9Ncg2f_hyR0&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9Ncg2f_hyR0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsJ35VO7YzCO-lt29rd5ItvOQQnw",
+    "channelName": "Prowse Tech",
+    "views": "27 views",
+    "uploadTime": "2 weeks ago"
+  },
+  {
+    "title": "Enhance Your Terraform Workflow in VS Code",
+    "url": "https://www.youtube.com/watch?v=hYBWFg8C1ZY&t=209s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hYBWFg8C1ZY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAtcRRON77dyWWq4oHfq7Me0EzOA",
+    "channelName": "HashiCorp",
+    "views": "5.7K views",
+    "uploadTime": "Streamed 1 year ago"
+  },
+  {
+    "title": "Terraform has forever changed the way I deploy code",
+    "url": "https://www.youtube.com/watch?v=cGPyH-PO8vg&t=73s&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cGPyH-PO8vg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRRhMt7wgo7AclYyXrFUC89pHU4g",
+    "channelName": "Dreams of Code",
+    "views": "136K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Terraform AWS modules live-coding - Episode 83",
+    "url": "https://www.youtube.com/watch?v=FHPuLpaSjDo&pp=ygUVVGVycmFmb3JtIHByb2dyYW1taW5n",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FHPuLpaSjDo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo7cCm68h59gophhyGkm6vMhUJRg",
+    "channelName": "Anton Babenko",
+    "views": "440 views",
+    "uploadTime": "Streamed 1 year ago"
+  },
+  {
+    "title": "Keep Your Terraform Code Clear | Commenting Tips for Developers",
+    "url": "https://www.youtube.com/shorts/ilPxi_po23Q",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ilPxi_po23Q/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgRIFoocjAP&rs=AOn4CLBFsfTHKJvme6wjuY08BNQYpK3Xfg",
+    "channelName": "Akamai Developer",
+    "views": "2.3K views",
+    "uploadTime": "10 months ago"
+  }
+]

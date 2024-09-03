@@ -1,5 +1,7 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
+import {addVideoToDB} from "./video/addVideoToDB.js"
+
 
 // Function to introduce delay
 function delay(time) {
@@ -25,7 +27,7 @@ async function scrapeYouTubeVideos(query) {
     let previousHeight;
 
     // Scroll and load more videos until we have 50 or until no more videos are loaded
-    while (videos.length < 2) {
+    while (videos.length < 5000) {
       // Extract the video titles, URLs, thumbnail images, channel names, view counts, and upload times
       const newVideos = await page.evaluate(() => {
         const videoElements = document.querySelectorAll('ytd-video-renderer');
@@ -33,7 +35,7 @@ async function scrapeYouTubeVideos(query) {
 
         videoElements.forEach(video => {
           const titleElement = video.querySelector('a#video-title');
-          const thumbnailElement =  video.querySelector('ytd-thumbnail img');
+          const thumbnailElement = video.querySelector('ytd-thumbnail img');
           const channelElement = video.querySelector('ytd-channel-name a');
           const viewElement = video.querySelector('ytd-video-meta-block #metadata-line .inline-metadata-item:nth-of-type(1)');
           const uploadTimeElement = video.querySelector('ytd-video-meta-block #metadata-line .inline-metadata-item:nth-of-type(2)');
@@ -93,7 +95,7 @@ async function scrapeYouTubeVideos(query) {
       }
     });
 
-    
+
     // Close the browser
     await browser.close();
 
@@ -105,16 +107,16 @@ async function scrapeYouTubeVideos(query) {
 
 // Call the function for each query in the array
 async function main(queries) {
-
-  let allVideos = []; // Array to store all videos from all queries
+  console.log("Youtube scrapping starts ..................")
+  let allVideos = [];
 
   for (const query of queries) {
-    await scrapeYouTubeVideos(query);
-    allVideos.push(...videos);
-    await delay(5000);
+    const videosArray = await scrapeYouTubeVideos(query);
+    await addVideoToDB(videosArray);
+    allVideos.push(...videosArray);
+    await delay(6000);
   }
   return allVideos;
 }
 
-// Start the scraping process
 export default main
