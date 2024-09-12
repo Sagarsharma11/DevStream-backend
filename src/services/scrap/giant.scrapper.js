@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
-import {addVideoToDB} from "./video/addVideoToDB.js"
+import {addVideoToDB} from "../video/addVideoToDB.js"
 
 
 // Function to introduce delay
@@ -10,7 +10,7 @@ function delay(time) {
   });
 }
 
-async function scrapeYouTubeVideos(query) {
+async function scrapeYouTubeVideos(query, limit) {
   try {
     // Launch a headless browser
     const browser = await puppeteer.launch({ headless: true });
@@ -27,7 +27,7 @@ async function scrapeYouTubeVideos(query) {
     let previousHeight;
 
     // Scroll and load more videos until we have 50 or until no more videos are loaded
-    while (videos.length < 5000) {
+    while (videos.length < limit) {
       // Extract the video titles, URLs, thumbnail images, channel names, view counts, and upload times
       const newVideos = await page.evaluate(() => {
         const videoElements = document.querySelectorAll('ytd-video-renderer');
@@ -95,7 +95,6 @@ async function scrapeYouTubeVideos(query) {
       }
     });
 
-
     // Close the browser
     await browser.close();
 
@@ -106,12 +105,12 @@ async function scrapeYouTubeVideos(query) {
 }
 
 // Call the function for each query in the array
-async function main(queries) {
+async function main(queries, limit) {
   console.log("Youtube scrapping starts ..................")
   let allVideos = [];
 
   for (const query of queries) {
-    const videosArray = await scrapeYouTubeVideos(query);
+    const videosArray = await scrapeYouTubeVideos(query, limit);
     await addVideoToDB(videosArray);
     allVideos.push(...videosArray);
     await delay(6000);

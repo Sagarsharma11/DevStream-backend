@@ -1,6 +1,6 @@
 import { Video } from "../models/video.model.js";
-// import giantService from "../services/giant.scrapper.js";
-import {youtubeQueue} from "../services/youtubeQueue.js";
+import giantService from "../services/scrap/giant.scrapper.js";
+import {youtubeQueue} from "../services/queue/youtubeQueue.js";
 
 const fetchAllYoutubeData = async(req, res)=>{
     try {
@@ -52,7 +52,7 @@ const fetchAllYoutubeData = async(req, res)=>{
             "APIs and microservices",
             "Data Structures and Algorithms"
           ];
-          youtubeQueue.add({queries})
+          youtubeQueue.add({queries, limit:5000})
 
         return res.status(200).json({
             statusCode:200,
@@ -95,4 +95,32 @@ const getAllData = async(req,res)=>{
     }
 }
 
-export {fetchAllYoutubeData, getAllData}
+const getLatestResult = async(req, res)=>{
+    try {
+        const { search} = req.query;
+        const queries = [];
+        queries.push(search);
+        const limit = 2;
+        const result = await giantService(queries, limit);
+
+        if(!result.length) return res.status(500).json({
+            statusCode:500,
+            success:false,
+            message:"Error while fetching data from YT",
+        })
+          return res.status(200).json({
+              statusCode:200,
+              success:true,
+              message:"Fetched data successfully",
+              data:result,
+          })
+      } catch (error) {
+          return res.status(500).json({
+              statusCode:500,
+              success:false,
+              message:`Internal Server Error, Error:${error}`,
+          })
+      }
+}
+
+export {fetchAllYoutubeData, getAllData, getLatestResult}

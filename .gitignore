@@ -1,14 +1,12 @@
-
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+./env
 
 # testing
 /coverage
-
-
 
 # production
 /build
@@ -24,10 +22,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts

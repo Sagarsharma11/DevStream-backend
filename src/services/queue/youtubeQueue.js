@@ -1,5 +1,5 @@
 import Queue from "bull";
-import giantService from "./giant.scrapper.js";
+import giantService from "../scrap/giant.scrapper.js";
 // Create a queue for processing YouTube data
 const youtubeQueue = new Queue('youtube-data-fetch', {
     redis: {
@@ -12,7 +12,7 @@ youtubeQueue.process(async(job, done)=>{
     try {
         console.log("new job came into the queue")
         console.log("fetching data of Keywords: ",job.data.queries)
-        const data = await giantService(job.data.queries);
+        const data = await giantService(job.data.queries, job.data.limit);
         console.log("job is done")  
         console.log(data);
 
@@ -25,6 +25,5 @@ youtubeQueue.process(async(job, done)=>{
         done(error); 
       }
 })
-
 
 export {youtubeQueue}
