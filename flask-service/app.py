@@ -10,6 +10,12 @@ model_name = "nlptown/bert-base-multilingual-uncased-sentiment"  # Or use a fine
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertForSequenceClassification.from_pretrained(model_name)
 
+
+@app.route("/home", methods=["GET"])
+def home():
+    app.logger.info("Home API call")
+    return jsonify({"message":"Hello Flask"})
+
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.json
