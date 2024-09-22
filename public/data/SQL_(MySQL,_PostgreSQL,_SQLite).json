@@ -1,0 +1,1410 @@
+[
+  {
+    "title": "SQLite vs PostgreSQL or MySQL",
+    "url": "https://www.youtube.com/watch?v=SijcmqP5sQA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SijcmqP5sQA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdshBWjG1gCnK04TdjoFiK4HIEJw",
+    "channelName": "Stephen Blum",
+    "views": "11K views",
+    "uploadTime": "10 months ago"
+  },
+  {
+    "title": "PostgreSQL vs MySQL",
+    "url": "https://www.youtube.com/watch?v=btjBNKP49Rk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/btjBNKP49Rk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGuHEXqoDGrSJLEVg6d8i-zIt_9Q",
+    "channelName": "IBM Technology",
+    "views": "332K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SIMPLY EXPLAINED: MYSQL vs POSTGRESQL vs SQL SERVER",
+    "url": "https://www.youtube.com/watch?v=loZ5L_NmCG8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/loZ5L_NmCG8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDZgloV247pz-UHz-ysWdV07XuyQ",
+    "channelName": "Jelvix | TECH IN 5 MINUTES",
+    "views": "98K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "MySQL vs PostgreSQL",
+    "url": "https://www.youtube.com/watch?v=vAv5lks4gzA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vAv5lks4gzA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPZ9vgjyDc8vC2cKBUQgPENp8YNw",
+    "channelName": "Airbyte",
+    "views": "33K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "PostgreSQL in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=n2Fluyr3lbc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/n2Fluyr3lbc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLUIenVTJu-klxroCymcADb55wrQ",
+    "channelName": "Fireship",
+    "views": "733K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MySQL vs Postgresql vs Microsoft SQL Server Management Tools | Which Option is Best?",
+    "url": "https://www.youtube.com/watch?v=Q7i6zxHVj2Q&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q7i6zxHVj2Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrZlFN0_ZWwytQkMPZyoum36KusQ",
+    "channelName": "Alex The Analyst",
+    "views": "139K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Postgres vs MySQL vs SQLite - a developer's guide",
+    "url": "https://www.youtube.com/watch?v=moqhSZM2BFo&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/moqhSZM2BFo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7bSwb30KfWofSsxWADL9bKQzpLw",
+    "channelName": "GringoDotDev",
+    "views": "8K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Elon Musk fires employees in twitter meeting DUB",
+    "url": "https://www.youtube.com/watch?v=2j3p_aDMTNg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2j3p_aDMTNg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD3LHFtr7YWuHZjEhjBJ5pu3c3mw",
+    "channelName": "GeoMFilms",
+    "views": "16M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Picking the right Database for your Project (Avoid Common Mistakes!)",
+    "url": "https://www.youtube.com/watch?v=XH-bKOjB0Bc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i9.ytimg.com/vi/XH-bKOjB0Bc/hq720_custom_3.jpg?sqp=CMTfwLcG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxyudc8XfhV0PIiLZyuqflCmv2Mw",
+    "channelName": "Jan Marshal",
+    "views": "2.3K views",
+    "uploadTime": "5 days ago"
+  },
+  {
+    "title": "SQL Tutorial for Beginners | Full SQL Course In Hindi",
+    "url": "https://www.youtube.com/watch?v=On9eSN3F8w0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/On9eSN3F8w0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVQsLUM9ijjf456dfkq99r9TYD0A",
+    "channelName": "Rishabh Mishra",
+    "views": "2.3M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL Tutorial For Beginners | MySQL Tutorial",
+    "url": "https://www.youtube.com/watch?v=Rm0xH2Vpfi0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Rm0xH2Vpfi0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBviciKz1MRgsihp_lcCf1LE-kzAA",
+    "channelName": "codebasics",
+    "views": "173K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MySQL vs PostgreSQL vs SQLite vs MongoDB",
+    "url": "https://www.youtube.com/watch?v=apt1h30cXWw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/apt1h30cXWw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgnIDkofzAP&rs=AOn4CLB8zEHMn1YJSgRHDoTdEx528XLxGQ",
+    "channelName": "ProgrammingWizards TV",
+    "views": "82 views",
+    "uploadTime": "10 months ago"
+  },
+  {
+    "title": "Postgres User Defined Types",
+    "url": "https://www.youtube.com/watch?v=s1zO7_Le04w&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/s1zO7_Le04w/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3zV8_U9A1dqVg2bZ9tin6GJYu0Q",
+    "channelName": "DataMachine",
+    "views": "12 views",
+    "uploadTime": "1 day ago"
+  },
+  {
+    "title": "SQL - Complete Course in 3 Hours | SQL One Shot using MySQL",
+    "url": "https://www.youtube.com/watch?v=hlGoQC332VM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hlGoQC332VM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhnXHKBX0eUpJFvPZpHukRKh7xtQ",
+    "channelName": "Apna College",
+    "views": "7.8M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Syncing SQLite and Postgres?",
+    "url": "https://www.youtube.com/watch?v=_U5Z8AQy0hc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_U5Z8AQy0hc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBualFgYeN0a0w-QTuugUNxbL1mAA",
+    "channelName": "Underjord",
+    "views": "8.8K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Comparing Different SQL Platforms | MySQL | PostgreSQL | MongoDB | SQLite | Oracle | MS SQL @SCALER",
+    "url": "https://www.youtube.com/watch?v=65VNafnZmmg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/65VNafnZmmg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0EccPL-syrNiPi1YLtvFyeYAaIQ",
+    "channelName": "SCALER",
+    "views": "2.5K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL vs MySQL | Difference between SQL and MySQL | Intellipaat",
+    "url": "https://www.youtube.com/watch?v=7TBc5VbCVLk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7TBc5VbCVLk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfjZ0Y2sJy-jzY3ksx78N7M0JdZw",
+    "channelName": "Intellipaat",
+    "views": "381K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "MySQL vs MongoDB",
+    "url": "https://www.youtube.com/watch?v=OdgZ0jr4jpM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OdgZ0jr4jpM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzATebo0wnZAl63GZxcTrxmFddxA",
+    "channelName": "IBM Technology",
+    "views": "166K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Easily Visualize Database Schemas - SQLite, MySQL, PostgreSQL",
+    "url": "https://www.youtube.com/watch?v=nwZLJiZ7-oQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/nwZLJiZ7-oQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9ugQQ0Pauc71ksu0dzy3J6BY-YQ",
+    "channelName": "NeuralNine",
+    "views": "18K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Databases: PostgreSQL vs SQLite",
+    "url": "https://www.youtube.com/watch?v=xvSwsP48s1I&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xvSwsP48s1I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsjhlIr5lKiQ6ilIjjH3CW7Q9nEg",
+    "channelName": "Roel Van de Paar",
+    "views": "1.2K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQLite | What, Why , Where",
+    "url": "https://www.youtube.com/watch?v=KHc2iiLEDoQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KHc2iiLEDoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJuafpCFcXj_040tlkqUacYCsmNg",
+    "channelName": "Telusko",
+    "views": "137K views",
+    "uploadTime": "8 years ago"
+  },
+  {
+    "title": "#1 What is SQL ? | What is MySQL ? | Database Explained | Error Makes Clever | In Tamil",
+    "url": "https://www.youtube.com/watch?v=QvTo1_-n0UE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/QvTo1_-n0UE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3Wo16D0GOGAbEpxSTiU53e-Yj4g",
+    "channelName": "Error Makes Clever",
+    "views": "327K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Difference between MySQL vs. SQLite vs. PostgreSQL 🗄️🔄 #DatabaseDialects #DataManagement",
+    "url": "https://www.youtube.com/shorts/sZRMIJ53t90",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sZRMIJ53t90/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhhIGEoYTAP&rs=AOn4CLB8brmhJGM7Oko9wSz-yvseg8rjOw",
+    "channelName": "Htrooot",
+    "views": "2.2K views",
+    "uploadTime": "7 months ago"
+  },
+  {
+    "title": "Migrating data from SQlite to PostgreSQL | Django",
+    "url": "https://www.youtube.com/watch?v=BGEEzjGadYI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BGEEzjGadYI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSwl1_L0vsnQd-BL3QFJ4LIR8PLg",
+    "channelName": "StudyGyaan",
+    "views": "17K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "sqlite is my favorite database (beginner - intermediate) anthony explains #500",
+    "url": "https://www.youtube.com/watch?v=jH39c5-y6kg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/jH39c5-y6kg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAexsHbeQR040r0DjReXx0cPR8qXw",
+    "channelName": "anthonywritescode",
+    "views": "66K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL Tutorial #2: Types of Databases & DBMS Explained | Beginner to Advanced",
+    "url": "https://www.youtube.com/watch?v=gKpwKzU8uz8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/gKpwKzU8uz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1uWuMfpia6q3eRLV5sPhsou99VA",
+    "channelName": "Unarrow_Programming_Hub",
+    "views": "5 views",
+    "uploadTime": "8 hours ago"
+  },
+  {
+    "title": "7 Database Paradigms",
+    "url": "https://www.youtube.com/watch?v=W2Z7fbCLSTw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/W2Z7fbCLSTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIP1RJd0Q-KipBiMRkiVoWmHciFQ",
+    "channelName": "Fireship",
+    "views": "1.6M views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Migrate a MySQL to PostgreSQL   |  sqlite to PostgreSQL |  pgLoader",
+    "url": "https://www.youtube.com/watch?v=DVsJtqS7Qho&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DVsJtqS7Qho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzid2Fqp67NeEOVa3aKEZbRNvClg",
+    "channelName": "Hakirospy",
+    "views": "8K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Migrate SQLite Database to MySQL with Python",
+    "url": "https://www.youtube.com/watch?v=Qv02PxiK938&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Qv02PxiK938/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRYTHNKEE_445H74omzzned1g6fA",
+    "channelName": "NeuralNine",
+    "views": "7.9K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Secret To Optimizing SQL Queries - Understand The SQL Execution Order",
+    "url": "https://www.youtube.com/watch?v=BHwzDmr6d7s&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BHwzDmr6d7s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7cVzgkWFVBzB9ff1EcbJv--VbdA",
+    "channelName": "ByteByteGo",
+    "views": "438K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "mysql vs postgresql|difference between mysql and postgresql|mysql and postgresql difference",
+    "url": "https://www.youtube.com/watch?v=cLzovtSy5sg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cLzovtSy5sg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClipScDdugB9ioAso4OcXcsfzUeA",
+    "channelName": "Last Night Study",
+    "views": "17K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "How to Import Database(.sql) in PostgreSql",
+    "url": "https://www.youtube.com/watch?v=3AKIA8pu8YY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3AKIA8pu8YY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdP5KEwE91XixPZAV4LB74UsjzaQ",
+    "channelName": "SKLEARNING",
+    "views": "132K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQLAlchemy Tutorial 1 – Connect Python to MySQL, PostgreSQL, SQLite and MS SQL and Load CSV Data",
+    "url": "https://www.youtube.com/watch?v=Jk6wBaeBv1k&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Jk6wBaeBv1k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKNVYUFZy-slou-2jHCsurq-2IiA",
+    "channelName": "Kindson The Genius",
+    "views": "18K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Table Plus Best Relational Database Program (Mysql, Sqlite3, Postgres, Redis, Sequel Server)",
+    "url": "https://www.youtube.com/watch?v=yljkqXXR0Lg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yljkqXXR0Lg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0LdHUlYPxJ6G8e14wvbaHKzyQRg",
+    "channelName": "CodingPhase",
+    "views": "35K views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Roadmap for Learning SQL",
+    "url": "https://www.youtube.com/watch?v=yMqldbY2AAg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yMqldbY2AAg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClmhybUCvbgs6yvQzbxlRaA_z32g",
+    "channelName": "ByteByteGo",
+    "views": "398K views",
+    "uploadTime": "5 months ago"
+  },
+  {
+    "title": "MySQL - The Basics // Learn SQL in 23 Easy Steps",
+    "url": "https://www.youtube.com/watch?v=Cz3WcZLRaWc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Cz3WcZLRaWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW5JakIoNNKu8rof7GtTpMnQTZQw",
+    "channelName": "Fireship",
+    "views": "862K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQL Server Tutorial - One-to-many and many-to-many table relationships",
+    "url": "https://www.youtube.com/watch?v=4q-keGvUnag&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4q-keGvUnag/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAswFigIMCAAQARhhIGEoYTAP&rs=AOn4CLAmWF7y3_RPN1ueOTu43eLuArLy_Q",
+    "channelName": "LinkedIn Learning",
+    "views": "368K views",
+    "uploadTime": "13 years ago"
+  },
+  {
+    "title": "MySQL: SUBQUERIES",
+    "url": "https://www.youtube.com/watch?v=i5acg3Hvu6g&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/i5acg3Hvu6g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALxD6ONtv-i1KW36hdv4L6udLdhw",
+    "channelName": "Bro Code",
+    "views": "93K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL Views In 4 Minutes: Super Useful! Wow! Crazy! Amazing! I'm Crying Tears Of SQL Joy.",
+    "url": "https://www.youtube.com/watch?v=vLLkNI-vkV8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vLLkNI-vkV8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUCsfP9UoOJ6_OS6RkqTYHy7qx1g",
+    "channelName": "Colt Steele",
+    "views": "104K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "15 futuristic databases you’ve never heard of",
+    "url": "https://www.youtube.com/watch?v=jb2AvF8XzII&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/jb2AvF8XzII/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-GrUKBPMfgOvVRlCQZRfe1NVLcQ",
+    "channelName": "Fireship",
+    "views": "675K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "5 Secrets for making PostgreSQL run BLAZING FAST. How to improve database performance.",
+    "url": "https://www.youtube.com/watch?v=YON9PliOYFk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YON9PliOYFk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkrkQGKc3hO4_tW3CSq7j1OrT1yw",
+    "channelName": "Dreams of Code",
+    "views": "112K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL indexing best practices | How to make your database FASTER!",
+    "url": "https://www.youtube.com/watch?v=BIlFTFrEFOI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BIlFTFrEFOI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9bfBg5NTTainNYt3vuXAEO3zA9A",
+    "channelName": "CockroachDB",
+    "views": "76K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+    "url": "https://www.youtube.com/watch?v=7mz73uXD9DA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7mz73uXD9DA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVnhKf5YBLmq8cb8pPmFq2PPxS7g",
+    "channelName": "Luke Barousse",
+    "views": "422K views",
+    "uploadTime": "6 months ago"
+  },
+  {
+    "title": "How is data stored in sql database",
+    "url": "https://www.youtube.com/watch?v=OyBwIjnQLtI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OyBwIjnQLtI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvdUWFkafioCPxLaFG1MNy9n5GHA",
+    "channelName": "kudvenkat",
+    "views": "185K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Advanced Aggregate Functions in SQL (GROUP BY, HAVING vs. WHERE)",
+    "url": "https://www.youtube.com/watch?v=nNrgRVIzeHg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/nNrgRVIzeHg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxAfXXiytO_e9NkRyz-MV8L4FOSg",
+    "channelName": "Becoming a Data Scientist",
+    "views": "249K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "How do SQL Indexes Work",
+    "url": "https://www.youtube.com/watch?v=YuRO9-rOgv4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YuRO9-rOgv4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-nQaTjKxP9Dp7b5K-IR9Eqi-11g",
+    "channelName": "kudvenkat",
+    "views": "617K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQL Tutorial for Beginners [Full Course]",
+    "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7S_tz1z_5bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlohTYZhQDSWG32v6EfxEUlv6wqA",
+    "channelName": "Programming with Mosh",
+    "views": "11M views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "SQL Explained in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=zsjvFFKOm3c&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zsjvFFKOm3c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjYKKg0u5_vydxeUzPQkVs9TpwAg",
+    "channelName": "Fireship",
+    "views": "850K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "MySQL: JOINS are easy (INNER, LEFT, RIGHT)",
+    "url": "https://www.youtube.com/watch?v=G3lJAxg1cy8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/G3lJAxg1cy8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4_i-ijsdoyeZzvnnwW4_KDxrFbg",
+    "channelName": "Bro Code",
+    "views": "401K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MySQL: AUTOCOMMIT, COMMIT, ROLLBACK",
+    "url": "https://www.youtube.com/watch?v=GOQVlrQohtM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GOQVlrQohtM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADvIQkd9XGzQz3SFXf0p4e8Gpdjw",
+    "channelName": "Bro Code",
+    "views": "84K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "6 SQL Joins you MUST know! (Animated + Practice)",
+    "url": "https://www.youtube.com/watch?v=Yh4CrPHVBdE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Yh4CrPHVBdE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXsuBWAO69-p-_eh0ATyk9qT9Vhw",
+    "channelName": "Anton Putra",
+    "views": "158K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MySQL UNIONS are easy",
+    "url": "https://www.youtube.com/watch?v=su-fxrvKTCk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/su-fxrvKTCk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTxDMdQqzaUODTnjnQO7-aP_vI5Q",
+    "channelName": "Bro Code",
+    "views": "57K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Advanced SQL Tutorial | Stored Procedures + Use Cases",
+    "url": "https://www.youtube.com/watch?v=NrBJmtD0kEw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/NrBJmtD0kEw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOpaAcFURfKGPAwSZ0ZKzIWw2eaA",
+    "channelName": "Alex The Analyst",
+    "views": "427K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "What is SQL with Full Information? – [Hindi] – Quick Support",
+    "url": "https://www.youtube.com/watch?v=lbfixnW--sM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lbfixnW--sM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvuSTHIE8A9OVQYj4pvuL9GXqqig",
+    "channelName": "Quick Support",
+    "views": "232K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "MySQL: INDEXES are awesome",
+    "url": "https://www.youtube.com/watch?v=t0grczCICMk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/t0grczCICMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1PVX2yamYtBFgYlAVXpR0NJYylA",
+    "channelName": "Bro Code",
+    "views": "52K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MYSQL PostgreSQL SQLite Deployed App MATLAB Online server #shortsvideo #sqlserver",
+    "url": "https://www.youtube.com/shorts/CcSP_9KKZ7Q",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CcSP_9KKZ7Q/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhYIGMoZTAP&rs=AOn4CLAr7i2XVqBPJSIYZkliY1nLv25k1Q",
+    "channelName": "Technology Buzz",
+    "views": "14 views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "TablePlus - Best HeidSQL alternative for Macos",
+    "url": "https://www.youtube.com/watch?v=Y6UxONWNUjI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Y6UxONWNUjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxkWkx82mY8VGRegemSQ1ZHVFrYw",
+    "channelName": "Achour Meguenni",
+    "views": "4.2K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SIDU - Database Admin Tool via Web for MySQL Postgres SQLite and CUBRID",
+    "url": "https://www.youtube.com/watch?v=eG2xc5z-F4c&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/eG2xc5z-F4c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhQmCQ_R4G57lP9giX550ZYXF8ng",
+    "channelName": "Maha Bodhi",
+    "views": "6.1K views",
+    "uploadTime": "12 years ago"
+  },
+  {
+    "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
+    "url": "https://www.youtube.com/watch?v=xiUTqnI6xk8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xiUTqnI6xk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfuDrZdE2WYwR_DbZlXt84XnW3Fw",
+    "channelName": "NetworkChuck",
+    "views": "1.5M views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "HOW TO JOIN 3 OR MORE TABLES IN SQL | TWO WAYS",
+    "url": "https://www.youtube.com/watch?v=wdz4MRlzOyE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wdz4MRlzOyE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGr1_mmTdcuIzYA1s1HKtkMN9Ofw",
+    "channelName": "Crack Concepts",
+    "views": "413K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "SQLAlchemy Turns Python Objects Into Database Entries",
+    "url": "https://www.youtube.com/watch?v=AKQ3XEDI9Mw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/AKQ3XEDI9Mw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp-biLCaoEDl-Y2patn5Khf4kpvA",
+    "channelName": "NeuralNine",
+    "views": "173K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "DBeaver Tutorial - How to Use DBeaver (SQL Editor)",
+    "url": "https://www.youtube.com/watch?v=LEx96-CkB1Q&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LEx96-CkB1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUnBFRt5I_M3VbKlKdhmT3lBWCRA",
+    "channelName": "Database Star",
+    "views": "249K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Sqlite Is The Most Used Database",
+    "url": "https://www.youtube.com/watch?v=ckpotxktdvY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ckpotxktdvY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-I-GrOqeL4-6wcUIoCl4qclIBww",
+    "channelName": "ThePrimeTime",
+    "views": "139K views",
+    "uploadTime": "4 months ago"
+  },
+  {
+    "title": "SQL vs MySQL | 3 Key Differences #shorts",
+    "url": "https://www.youtube.com/shorts/DOy9tzK8GHE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DOy9tzK8GHE/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBjAKAAuADigIMCAAQARhlIFsoWzAP&rs=AOn4CLBcdWCIzsIyY2_ORX0p5Is4JLergQ",
+    "channelName": "SCALER",
+    "views": "497K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Intermediate SQL Tutorial | Partition By",
+    "url": "https://www.youtube.com/watch?v=D6XNlTfglW4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/D6XNlTfglW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCylNEtEtY8vbDiY7b5YtzTRQcrPg",
+    "channelName": "Alex The Analyst",
+    "views": "279K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQL Databases with Pandas and Python - A Complete Guide",
+    "url": "https://www.youtube.com/watch?v=DiQ5Hni6oRI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DiQ5Hni6oRI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0b2Q_p6U3p9Pq7HBm19OFM9H1eQ",
+    "channelName": "Rob Mulla",
+    "views": "125K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Do THIS instead of watching endless tutorials - how I’d learn SQL FAST in 2024",
+    "url": "https://www.youtube.com/watch?v=ITwW825L4zg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ITwW825L4zg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0cgf3Yh0b_q2cJ6UtgFu6lCdOew",
+    "channelName": "Agatha",
+    "views": "108K views",
+    "uploadTime": "1 month ago"
+  },
+  {
+    "title": "I tried 8 different Postgres ORMs",
+    "url": "https://www.youtube.com/watch?v=4QN1BzxF8wM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4QN1BzxF8wM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGAj4kTk077DDApYpnMA4wYfJ9LQ",
+    "channelName": "Beyond Fireship",
+    "views": "411K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MongoDB in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=-bt_y4Loofg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-bt_y4Loofg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY1BELABU4-V6MplgpmWIBfb2ODQ",
+    "channelName": "Fireship",
+    "views": "1M views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "What is SQL? Future Career Scope & Resources",
+    "url": "https://www.youtube.com/watch?v=UOJZTqA5Loc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UOJZTqA5Loc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbQDp5KufkSQi_zOjSM6AHAztFfA",
+    "channelName": "Apna College",
+    "views": "1.5M views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL For Web Developers - Complete Database Course",
+    "url": "https://www.youtube.com/watch?v=KBDSJU3cGkc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KBDSJU3cGkc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBmnDol_KRRW-POP65aTpo-v-_w",
+    "channelName": "freeCodeCamp.org",
+    "views": "175K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Why I switched from MongoDB to PostgreSQL (Rasmus Porsager)",
+    "url": "https://www.youtube.com/watch?v=OU7Llw3QrDM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OU7Llw3QrDM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-dkk4xacVv11HgTM7rSpCm3toQQ",
+    "channelName": "Changelog",
+    "views": "17K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How I use SQL as a Data Analyst",
+    "url": "https://www.youtube.com/watch?v=GEBzsz8ZSXs&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GEBzsz8ZSXs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyThTA8s7ZA9pifRAaCC9TbrYysA",
+    "channelName": "Luke Barousse",
+    "views": "828K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL vs MySQL Explained in Hindi in 7 mins | Difference between SQL and MySQL | Great Learning",
+    "url": "https://www.youtube.com/watch?v=FasR2rdQRd8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FasR2rdQRd8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe4kbsVuUn_DWgfRzQ6vM9N62ACA",
+    "channelName": "Great Learning",
+    "views": "131K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "MySQL SELF JOINS are ... ughhh",
+    "url": "https://www.youtube.com/watch?v=lweF--_3Pk8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lweF--_3Pk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbLebJcfOqVNLaX-TPBYXSoZ4ojA",
+    "channelName": "Bro Code",
+    "views": "63K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "MySQL: FOREIGN KEYS are easy (kind of)",
+    "url": "https://www.youtube.com/watch?v=rFssfx37UJw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rFssfx37UJw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmX_eszjMnMfbpsyXqvXxjDeIUfg",
+    "channelName": "Bro Code",
+    "views": "217K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "PocketBase... The Ultimate Side-Hustle Backend?",
+    "url": "https://www.youtube.com/watch?v=Wqy3PBEglXQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Wqy3PBEglXQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPRkUbNZtva0a9taj0pISfbK5y5g",
+    "channelName": "Fireship",
+    "views": "517K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQLite can handle exabytes of data! #database #mysql #postgresql #softwaredeveloper",
+    "url": "https://www.youtube.com/shorts/Hfrdi_33lnY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Hfrdi_33lnY/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhbIFsoWzAP&rs=AOn4CLDvnidigJpHLnvb4md5zCdLas7qvA",
+    "channelName": "Stephen Blum",
+    "views": "115 views",
+    "uploadTime": "10 months ago"
+  },
+  {
+    "title": "Go (Golang) & SwiftU & Databases: SQLite, MySQL, PostgreSQL  (Xcode 13.3, Swift 5.6)",
+    "url": "https://www.youtube.com/watch?v=srJjGBEHPQM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/srJjGBEHPQM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVZsM3lPaJYpJeXNTxK1sxwB_jTw",
+    "channelName": "Petro Onishchuk",
+    "views": "350 views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL Tutorial - Full Database Course for Beginners",
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HXV3zeQKqGY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqd2jbSFzyQDvmezQaU6AtvYTDZw",
+    "channelName": "freeCodeCamp.org",
+    "views": "18M views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Advanced SQL Tutorial | Subqueries",
+    "url": "https://www.youtube.com/watch?v=m1KcNV-Zhmc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/m1KcNV-Zhmc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpkUb7Hlyddyac1K_CZU2oHvsx5w",
+    "channelName": "Alex The Analyst",
+    "views": "381K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Triggers in SQL (Hindi) l SQL Tutorial l Javatpoint",
+    "url": "https://www.youtube.com/watch?v=TtgH6NNDC8c&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TtgH6NNDC8c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMIqlzT3QihpI7UtjYQDBP4l5sOQ",
+    "channelName": "Javatpoint",
+    "views": "269K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Migrate data from SQLite table to MySQL",
+    "url": "https://www.youtube.com/watch?v=0USS-VR0rQw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0USS-VR0rQw/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB6gSAAuADigIMCAAQARgTIBMofzAP&rs=AOn4CLC3SfBgCvL6uYkwrld3ASIOxdSpAw",
+    "channelName": "Shiji Pan",
+    "views": "2.9K views",
+    "uploadTime": "10 years ago"
+  },
+  {
+    "title": "Java Database Connectivity | JDBC",
+    "url": "https://www.youtube.com/watch?v=7v2OnUti2eM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7v2OnUti2eM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA93d_AhR-bZemwvKqW3zQtbEUf_g",
+    "channelName": "Telusko",
+    "views": "278K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "5 Basic SELECT Statement Queries in SQL",
+    "url": "https://www.youtube.com/watch?v=5tEApCGgpEQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5tEApCGgpEQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDADO0UV1ktVFexBIjc2M_UfwHZgw",
+    "channelName": "Becoming a Data Scientist",
+    "views": "129K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Materialized View in SQL | Faster SQL Queries using Materialized Views",
+    "url": "https://www.youtube.com/watch?v=WzkBZ0byoYE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/WzkBZ0byoYE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp9Mb9NiLQw3fM4DOVSidHnUg-Qg",
+    "channelName": "techTFQ",
+    "views": "111K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Coding for 1 Month Versus 1 Year #shorts #coding",
+    "url": "https://www.youtube.com/shorts/k7LSFYyBZUs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/k7LSFYyBZUs/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFooUDAP&rs=AOn4CLDPI5T3Zvusvo6_kl_dsilAbKzaKw",
+    "channelName": "Devslopes",
+    "views": "5.7M views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Python Database Programming Full Course | Mysql | Sqlite | PostgreSQL",
+    "url": "https://www.youtube.com/watch?v=bSZtsYYwFS0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/bSZtsYYwFS0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYUP5f94mmksl0wUVRIr6ae-r0jw",
+    "channelName": "Parwiz Forogh",
+    "views": "9.4K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "SQL Query - Convert data from Rows to Columns | Pivot",
+    "url": "https://www.youtube.com/watch?v=uT_Z2VP2Z24&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/uT_Z2VP2Z24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU-m3Q0lZewXJyDQR5tAcPt4MJlw",
+    "channelName": "Learn at Knowstar",
+    "views": "188K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "SQL Cursors - how and when to use them",
+    "url": "https://www.youtube.com/watch?v=HVWgDvzBtWY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HVWgDvzBtWY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5MAqLahurgiPpdB3KnjtjP2Jdmg",
+    "channelName": "James Oliver",
+    "views": "60K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Working With SQL Databases From R: Introduction & Connecting To Databases",
+    "url": "https://www.youtube.com/watch?v=F4HP3CXijC8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/F4HP3CXijC8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxS7exksJeMRCOjsuQutSo04vZcQ",
+    "channelName": "weecology",
+    "views": "37K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "10 Free SQL DB Hosts",
+    "url": "https://www.youtube.com/watch?v=ZtOISu7u_IU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ZtOISu7u_IU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXOD639TqfE-itZDwCt4fVDYk3Bg",
+    "channelName": "MesmerTech",
+    "views": "66K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Cloud SQL in a minute",
+    "url": "https://www.youtube.com/watch?v=ZMQ2n6i-7jw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ZMQ2n6i-7jw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASpU23Y7g6PPosnkJJ1lhLIXgKNQ",
+    "channelName": "Google Cloud Tech",
+    "views": "115K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "I Have A New Favorite Database Tool",
+    "url": "https://www.youtube.com/watch?v=_SLxGYzv6jo&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_SLxGYzv6jo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgpDTeS87mdq3My0pFnW80UAZKEw",
+    "channelName": "Theo - t3․gg",
+    "views": "120K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Prisma in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=rLRIB6AF2Dg&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rLRIB6AF2Dg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJJQ6iun4N0E_oygcBz59YzA_f1Q",
+    "channelName": "Fireship",
+    "views": "594K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Senior Programmers vs Junior Developers #shorts",
+    "url": "https://www.youtube.com/shorts/746mfQalS48",
+    "thumbnailUrl": "https://i.ytimg.com/vi/746mfQalS48/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBjAKAAuADigIMCAAQARhGIFYocjAP&rs=AOn4CLBelUCrmVqBP6Wj9p_pf7Mqzv97zQ",
+    "channelName": "Miso Tech (Michael Song)",
+    "views": "21M views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How SQLite and Python are getting better",
+    "url": "https://www.youtube.com/watch?v=JzpfatqezoY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JzpfatqezoY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2KVVK77yYfEKzzOqGId7DeVZDXQ",
+    "channelName": "Alex Ziskind",
+    "views": "13K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Lec-123: Top 15 SQL Interview Questions Answers | Most Important Questions for Job Interview",
+    "url": "https://www.youtube.com/watch?v=0xg4X79yHW4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0xg4X79yHW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3BfuIWTdcSTq5eEH56i7xrM5c-A",
+    "channelName": "Gate Smashers",
+    "views": "956K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Installing MySQL and Creating Databases | MySQL for Beginners",
+    "url": "https://www.youtube.com/watch?v=wgRwITQHszU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wgRwITQHszU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwSscBFy5QjsYikhNef0AHLpZIKQ",
+    "channelName": "Alex The Analyst",
+    "views": "478K views",
+    "uploadTime": "10 months ago"
+  },
+  {
+    "title": "How To Fix No Suitable Driver",
+    "url": "https://www.youtube.com/watch?v=74Qnlck38Lk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/74Qnlck38Lk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgvP6me3wQWNo998xgMrBFkV2-Qg",
+    "channelName": "By Logic",
+    "views": "38K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "Database Development with Xojo - SQLite, PostgreSQL, MySQL, Microsoft SQL Server, Oracle and ODBC",
+    "url": "https://www.youtube.com/watch?v=GFp1TZ1jk5Q&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GFp1TZ1jk5Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXZ-OZQ3QRiz663jeM2ajcE8yzMA",
+    "channelName": "Xojo",
+    "views": "5.3K views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Database Design Course - Learn how to design and plan a database for beginners",
+    "url": "https://www.youtube.com/watch?v=ztHopE5Wnpc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ztHopE5Wnpc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr-7YqOuANPV9w5ct-k6xr7iP-IA",
+    "channelName": "freeCodeCamp.org",
+    "views": "2.9M views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Raw SQL, SQL Query Builder, or ORM?",
+    "url": "https://www.youtube.com/watch?v=x1fCJ7sUXCM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/x1fCJ7sUXCM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7SY_IxGNYGKrvJW5xr_RcNxCtWA",
+    "channelName": "ArjanCodes",
+    "views": "100K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "How Do I Store Images In SQL? In Other Database Types?",
+    "url": "https://www.youtube.com/watch?v=XnNbizvb1uM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XnNbizvb1uM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8l7tGQmpole0RIVWGtCWLbSgK5w",
+    "channelName": "IAmTimCorey",
+    "views": "82K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "FastAPI MySQL REST API in Python | CRUD Operations | Swagger | SQLAlchemy",
+    "url": "https://www.youtube.com/watch?v=4Zy90rd0bkU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4Zy90rd0bkU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARJdJNeUdhCfxdzdMp_eKnHUMeOw",
+    "channelName": "Mahesh Kariya",
+    "views": "88K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "How to install SQLite database on Windows 11 || Creating a database and table in SQLite 2023 updated",
+    "url": "https://www.youtube.com/watch?v=-bDwNR_C0dE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-bDwNR_C0dE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnuJm9m_6BUSQ5AkOIwMAaw93o_w",
+    "channelName": "Cool IT Help",
+    "views": "55K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries",
+    "url": "https://www.youtube.com/watch?v=pd-0G0MigUA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pd-0G0MigUA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALL4bkRd9yIoWfnw1r91ZYuboIGQ",
+    "channelName": "Corey Schafer",
+    "views": "976K views",
+    "uploadTime": "7 years ago"
+  },
+  {
+    "title": "Vector databases are so hot right now. WTF are they?",
+    "url": "https://www.youtube.com/watch?v=klTvEwg3oJ4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/klTvEwg3oJ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCReOqLo_KnE3ATMnLgblZFLsUmJw",
+    "channelName": "Fireship",
+    "views": "975K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Supabase in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=zBZgdTb-dns&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zBZgdTb-dns/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_E7l80x8AqawYAGFBOy2pcxfeOg",
+    "channelName": "Fireship",
+    "views": "504K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL Convert Rows to Columns and Columns to Rows without using Pivot Functions",
+    "url": "https://www.youtube.com/watch?v=O6mDdUIvx9k&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/O6mDdUIvx9k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2xvx2wFbXF5qxQwpnrwCGPrXnEA",
+    "channelName": "Ankit Bansal",
+    "views": "122K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How to Integrate Python with Databases - SQLite, MySQL, and PostgreSQL",
+    "url": "https://www.youtube.com/watch?v=PJlxrNpEDEo&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PJlxrNpEDEo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4K0W37KHAG8Syv-sfZIC7d06p4g",
+    "channelName": "CodeWizard",
+    "views": "10 views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Make SQL Queries Secure in Python",
+    "url": "https://www.youtube.com/watch?v=a8g6HRL2ed0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/a8g6HRL2ed0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3Cvlk2BAC-MLR3lu1zcVzsVWpWg",
+    "channelName": "NeuralNine",
+    "views": "17K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Nested Queries | SQL | Tutorial 18",
+    "url": "https://www.youtube.com/watch?v=lBpSMeQjNqQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lBpSMeQjNqQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQZKqpxnnhs7X5RyV0iMlMdYU1qg",
+    "channelName": "Giraffe Academy",
+    "views": "178K views",
+    "uploadTime": "6 years ago"
+  },
+  {
+    "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+    "url": "https://www.youtube.com/watch?v=kbKty5ZVKMY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kbKty5ZVKMY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4hVVUoOXUgLBVnKlm-OgpzV5NDA",
+    "channelName": "Adam Finer - Learn BI Online",
+    "views": "2M views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Best Programming Languages #programming #coding #javascript",
+    "url": "https://www.youtube.com/shorts/5-oiLKEWIEw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5-oiLKEWIEw/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIF4oVDAP&rs=AOn4CLBHTC27qTJGDl7Ek1Gp7awXTZe5cg",
+    "channelName": "Devslopes",
+    "views": "6.1M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "DATA SCIENCE WITH MYSQL, SQLITE, POSTGRESQL, AND SQL SERVER: VIVIAN SIAHAAN AND RISMON H. SIANIPAR",
+    "url": "https://www.youtube.com/watch?v=UdsqkYOsrQY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UdsqkYOsrQY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD9cW0bDDtJm3D3ziz16P40Oj-uQ",
+    "channelName": "DrEng Rismon H Sianipar",
+    "views": "4 views",
+    "uploadTime": "2 months ago"
+  },
+  {
+    "title": "Difference Between SQL & MySQL | Tamil",
+    "url": "https://www.youtube.com/watch?v=KIhlp7SDTmI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KIhlp7SDTmI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPxBavAIat-0mlt_TIgO7F6zvj-w",
+    "channelName": "VetBosSel",
+    "views": "15K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SIDU 5.5 For MySQL PostgreSQL SQLite - Database Admin Web GUI Tool",
+    "url": "https://www.youtube.com/watch?v=yBWt-ecXhgc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yBWt-ecXhgc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn3KC4sP8Md076xuNcMbk4FunqvA",
+    "channelName": "Maha Bodhi",
+    "views": "5.6K views",
+    "uploadTime": "7 years ago"
+  },
+  {
+    "title": "Nesting \"If Statements\" Is Bad. Do This Instead.",
+    "url": "https://www.youtube.com/shorts/Zmx0Ou5TNJs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Zmx0Ou5TNJs/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARg8IFYoZTAP&rs=AOn4CLBbpnApJrUBVMYqIqFrB_Qglyx0tA",
+    "channelName": "Flutter Mapp",
+    "views": "3.8M views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "What's the best RDBMS? PostgreSQL vs MySQL",
+    "url": "https://www.youtube.com/watch?v=EOTY-p5h74E&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EOTY-p5h74E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjxeGRO-wIrHxpIAF0u52JqDd9CQ",
+    "channelName": "TrustRadius",
+    "views": "121K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Clear, Reset ID Counter of MySQL Table",
+    "url": "https://www.youtube.com/watch?v=2_ozHYarwHU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2_ozHYarwHU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM3uzz0R8dSsSETawfGotbAf3SqA",
+    "channelName": "DZ4Team",
+    "views": "25K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Connecting Langchain to any SQL Database Demo",
+    "url": "https://www.youtube.com/watch?v=vkUALDWeRWU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vkUALDWeRWU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhWIEooZTAP&rs=AOn4CLCYhyzT1jlAcfQvmaPPbMVRWafaXA",
+    "channelName": "Tosh Velaga",
+    "views": "11K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SOLVE 5 SQL QUERIES IN 5 MINUTES (PART 1) | MASTER IN SQL | SQL INTERVIEW QUESTIONS",
+    "url": "https://www.youtube.com/watch?v=OIRy7ZFSudA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OIRy7ZFSudA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Q_CGWe7oBCSWB5q7VSnDJoUA7g",
+    "channelName": "Crack Concepts",
+    "views": "1.2M views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "SQL WITH Statements (Common Table Expressions - CTE)",
+    "url": "https://www.youtube.com/watch?v=_SanZ41uTlw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_SanZ41uTlw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7IMXndcBP0yCswWxO5_cx-EXTJA",
+    "channelName": "Becoming a Data Scientist",
+    "views": "97K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "PostgreSQL Databases - 02  Connecting your Code",
+    "url": "https://www.youtube.com/watch?v=vBWbH1fIUMk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vBWbH1fIUMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb6CHNSaFuYZJ6slrbqgUOGJhxJA",
+    "channelName": "Replit",
+    "views": "2.8K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Recursive SQL",
+    "url": "https://www.youtube.com/watch?v=_bACoyg2NI4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_bACoyg2NI4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhlIF0oPzAP&rs=AOn4CLDn1AWMvWQ0MM14obOPNdk8hnAfQA",
+    "channelName": "CT Stamford",
+    "views": "11K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQL for pagination queries - memory and performance",
+    "url": "https://www.youtube.com/watch?v=rhOVF82KY7E&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rhOVF82KY7E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChU1PoH3cbx8eu6fvMKft-0pTghA",
+    "channelName": "SQL and Database explained!",
+    "views": "18K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "How to Connect React JS With MySQL Database using Node.JS/Express.js",
+    "url": "https://www.youtube.com/watch?v=Q3ixb1w-QaY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q3ixb1w-QaY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4seND_EsMrlnLNn3U2h_60bLPWQ",
+    "channelName": "Code With Yousaf",
+    "views": "160K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQLite Backend for Beginners - Create Quick Databases with Python and SQL",
+    "url": "https://www.youtube.com/watch?v=Ohj-CqALrwk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ohj-CqALrwk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSFBvmIfpUC2IlcJULWK3LJuNOfg",
+    "channelName": "Python Simplified",
+    "views": "178K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Which Database is best for App | SqLite vs Firebase | MySQL vs Oracle Mongo vs Azure | Sql vs noSql",
+    "url": "https://www.youtube.com/watch?v=rH_oVk2-2Dk&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rH_oVk2-2Dk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8WRG9LuBmp6DDyzVl0x3HHrUwLw",
+    "channelName": "Daniyal Ak",
+    "views": "12K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Complete SQL JOINS For Beginners | SQL JOIN Queries with Examples | SQL Tutorial in Hindi 11",
+    "url": "https://www.youtube.com/watch?v=H6988OpZKTU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/H6988OpZKTU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA63Wl7i0FMxlE20L2e5jr76T62IA",
+    "channelName": "Rishabh Mishra",
+    "views": "464K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "CURSORS IN PL/SQL WITH EXAMPLES | PL/SQL TUTORIAL",
+    "url": "https://www.youtube.com/watch?v=OuFJzs1hGxM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OuFJzs1hGxM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlq2xL3s5S0GJGIrjAsFS1g2Kp_Q",
+    "channelName": "Crack Concepts",
+    "views": "293K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "How to Join two or more than two Tables using multiple columns | How to Join Multiple Tables #Joins",
+    "url": "https://www.youtube.com/watch?v=5OpBjU-OWh8&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5OpBjU-OWh8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAqwFigIMCAAQARgTIFAofzAP&rs=AOn4CLDi9Zxpb4NWlAPWXhdyWoICRp0C2w",
+    "channelName": "The Data Millennials",
+    "views": "127K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Joins - Inner, Left, Right and Cross | Union | Mysql| SQL in Tamil | Logic First Tamil",
+    "url": "https://www.youtube.com/watch?v=pNdXlE0xiP4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pNdXlE0xiP4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxnT5NpMu5-HNUWEB9eCKhV0YNzQ",
+    "channelName": "Logic First Tamil",
+    "views": "132K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL vs MySQL | Difference between sql and mysql database",
+    "url": "https://www.youtube.com/watch?v=BfcI7KxyZZ0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BfcI7KxyZZ0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgsIEsofzAP&rs=AOn4CLBopneSMT3NFgL3AQxkmUHNQdPiJg",
+    "channelName": "PnTutorials by Pradnyankur Nikam",
+    "views": "21K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Difference between SQL, SQL Server , MySQL, ORACLE-MS SQL Server complete course in Telugu-Lesson-6",
+    "url": "https://www.youtube.com/watch?v=u4JjCuFmA3Y&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/u4JjCuFmA3Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqMG1bcI0vgLpIW1E3nn-WRMowFg",
+    "channelName": "Edusoft Learning Systems - Learning Simplified",
+    "views": "34K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "What’s the difference between SQL vs NoSQL? #shorts",
+    "url": "https://www.youtube.com/shorts/8mJvTfOsBNQ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8mJvTfOsBNQ/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhPIEcocjAP&rs=AOn4CLBsPl6ac3IP6ivJ04pAdpP0haDl7w",
+    "channelName": "Exponent",
+    "views": "9.1K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "What is SQL used for?",
+    "url": "https://www.youtube.com/shorts/HBmH4NC5TAo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HBmH4NC5TAo/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhPIFooZTAP&rs=AOn4CLDGsKyF2ydBSKcuo03VkXzCxaa1cw",
+    "channelName": "Tiff In Tech",
+    "views": "26K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Developer Last Expression 😂 #shorts #developer #ytshorts #uiux #python #flutterdevelopment",
+    "url": "https://www.youtube.com/shorts/ueo1hBDRWhY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ueo1hBDRWhY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhOIGUoVjAP&rs=AOn4CLCGQvJAK1823-P5BEKYzT3NuLcJ1A",
+    "channelName": "CodeMe Hub",
+    "views": "1.9M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Programming Language Tier List",
+    "url": "https://www.youtube.com/shorts/opRm3x9vHH0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/opRm3x9vHH0/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARgtIGkocjAP&rs=AOn4CLAU6WYcmMJSO8stBbtfpzTWhqs64g",
+    "channelName": "Conner Ardman",
+    "views": "3.1M views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Cara Install Database MYSQL, POSTGRESQL, SQLITE",
+    "url": "https://www.youtube.com/watch?v=HObA84h7bcQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HObA84h7bcQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfeXerEXTuXLmmNiviDIFo6mOHnQ",
+    "channelName": "Valdi irawan",
+    "views": "33 views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Connect to Any SQL Server in 60 seconds with SQL Alchemy!! #python #sql #datascience #pandas #coding",
+    "url": "https://www.youtube.com/shorts/OrAqpvfzm7M",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OrAqpvfzm7M/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARg_IFcoZTAP&rs=AOn4CLCNweqVW1MKHrGYGbNa22IYUPZkRQ",
+    "channelName": "Data Science with Josh",
+    "views": "21K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "You Don't Need MySQL Clients Anymore! You Can Use VSCode Instead",
+    "url": "https://www.youtube.com/watch?v=MkSgscvxaU8&t=337s&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MkSgscvxaU8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnYcSFhtATecUOmr4-tYQQ5pDFow",
+    "channelName": "CoderOne",
+    "views": "213K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQL Joins Explained  |¦| Joins in SQL |¦| SQL Tutorial",
+    "url": "https://www.youtube.com/watch?v=9yeOJ0ZMUYw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9yeOJ0ZMUYw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiyMfnK_3I04iA-7XSCEgFMMl9SA",
+    "channelName": "Socratica",
+    "views": "818K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "Local SQLite Database for Expo React Native App with Import and Export Database from Device Files",
+    "url": "https://www.youtube.com/watch?v=1kSLd9oQX7c&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/1kSLd9oQX7c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLFiF1jnw8XqL6zgv4stDA4YLmvg",
+    "channelName": "MissCoding",
+    "views": "60K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL For Everyone - Tutorial 21 - Performing Calculations",
+    "url": "https://www.youtube.com/watch?v=z8Scic2anHo&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/z8Scic2anHo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoTlhT6S-r_fKW-oJU00HLFEsVUQ",
+    "channelName": "Algometica",
+    "views": "15K views",
+    "uploadTime": "7 years ago"
+  },
+  {
+    "title": "SurrealDB in 100 Seconds",
+    "url": "https://www.youtube.com/watch?v=C7WFwgDRStM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/C7WFwgDRStM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOW0kzCEms9RgObB9sTkTCe7BAVA",
+    "channelName": "Fireship",
+    "views": "410K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How to Run SQL Online (without installing)",
+    "url": "https://www.youtube.com/watch?v=TRHjQ8Yei7U&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TRHjQ8Yei7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMEcaRDveZ11wKnMOiApOW0CAewQ",
+    "channelName": "Amit Thinks",
+    "views": "117K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "Advanced SQL Tutorial | Temp Tables",
+    "url": "https://www.youtube.com/watch?v=RF0LE3hYFrI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/RF0LE3hYFrI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHVJk-x1BC9er6p9PM0Xxkc3qWaQ",
+    "channelName": "Alex The Analyst",
+    "views": "254K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "How to RENAME COLUMN in table in SQL",
+    "url": "https://www.youtube.com/watch?v=GQutr6cFqi0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GQutr6cFqi0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC-nw0Mq_K27YgGzIJ93VsQX-BWw",
+    "channelName": "Learn SQL",
+    "views": "22K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Introducing st.connection for connecting to SQL database in 4 lines",
+    "url": "https://www.youtube.com/watch?v=xQwDfW7UHMo&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xQwDfW7UHMo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdostR3RvsQJi0PYFacD_3chScBw",
+    "channelName": "Streamlit",
+    "views": "14K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL vs MySQL | MySQL Tutorial for Beginners in Hindi | Difference Between SQL and MySQL",
+    "url": "https://www.youtube.com/watch?v=y3m52QhuOWA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/y3m52QhuOWA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpRzASo62tvCW8wuoOKGxDp8joQ",
+    "channelName": "Code-yug",
+    "views": "6K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Its so easy to create a Database on Railway even Theo can do it",
+    "url": "https://www.youtube.com/watch?v=Xi0zxLtSpVw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Xi0zxLtSpVw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIE0oZTAP&rs=AOn4CLChZOiGTc4m10pBKtzYvCpDpX5G6Q",
+    "channelName": "Roy Anger",
+    "views": "4.4K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "Vercel STORAGE??! SQL, KV, Files and more",
+    "url": "https://www.youtube.com/watch?v=RUwTvCyeohQ&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/RUwTvCyeohQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfWdxOnVDbMou0CwfUui4lqaUrDg",
+    "channelName": "Theo - t3․gg",
+    "views": "44K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "LAG and LEAD Functions (SQL) - Accessing Data in Other Rows",
+    "url": "https://www.youtube.com/watch?v=j2u52RQ0qlw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/j2u52RQ0qlw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsaiCzQCYEwCqvvuKUVPX1iF5HEQ",
+    "channelName": "Cody Baldwin",
+    "views": "14K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "DATA ANALYSIS PROJECTS MYSQL, SQLITE, POSTGRESQL, AND SQL SERVER: VIVIAN SIAHAAN -RISMON H. SIANIPAR",
+    "url": "https://www.youtube.com/watch?v=MW32qlB1DOI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MW32qlB1DOI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe0yPtLX8Uzmx57ICt_vi1DEVL1g",
+    "channelName": "DrEng Rismon H Sianipar",
+    "views": "14 views",
+    "uploadTime": "2 months ago"
+  },
+  {
+    "title": "Load Database Tables Into Pandas",
+    "url": "https://www.youtube.com/watch?v=npNY5-451Nc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/npNY5-451Nc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ5DV1hRFq6yIxA189BcFXKQhXCQ",
+    "channelName": "NeuralNine",
+    "views": "18K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Cache Systems Every Developer Should Know",
+    "url": "https://www.youtube.com/watch?v=dGAgxozNWFE&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/dGAgxozNWFE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcyq_dKa0eQlorX1n10x75hQt3MA",
+    "channelName": "ByteByteGo",
+    "views": "490K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL Tutorial - 9: Create Table Statement",
+    "url": "https://www.youtube.com/watch?v=oReH2vO8Izc&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/oReH2vO8Izc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IE8ocjAP&rs=AOn4CLBQCheZfz5QL80gW3MZx4Y2sDeMMg",
+    "channelName": "The Bad Tutorials",
+    "views": "1.6M views",
+    "uploadTime": "10 years ago"
+  },
+  {
+    "title": "5 ways that DuckDB makes SQL better",
+    "url": "https://www.youtube.com/watch?v=Fg8n-O0dhrI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Fg8n-O0dhrI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOuROiOINLS1MDUZhZCNaeIPY1Iw",
+    "channelName": "Learn Data with Mark",
+    "views": "8.6K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Kangaroo is a management client (SQLite / MySQL / PostgreSQL) built for popular database systems.",
+    "url": "https://www.youtube.com/shorts/J5-QVksiFKY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/J5-QVksiFKY/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARh_IFkoKTAP&rs=AOn4CLB6lYVZApXvlT3eR_MRsohuSi1jPg",
+    "channelName": "7claw.com七爪网APP源码",
+    "views": "55 views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SwiftUI & URLSession  GENERICS  & Go(Golang) & Databases: SQLite, MySQL, PostgreSQL",
+    "url": "https://www.youtube.com/watch?v=r36N7LRO_kI&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/r36N7LRO_kI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD00R_RXR2am9iNoGdYPhWWnXjgJg",
+    "channelName": "Petro Onishchuk",
+    "views": "307 views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "GROUP BY & HAVING CLAUSE IN SELECT COMMAMD || SQL COMMANDS || GROUP BY || HAVING || SQL || DBMS",
+    "url": "https://www.youtube.com/watch?v=wsbp1J-AFhY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wsbp1J-AFhY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjGg37yJV7A50a2GR2jfX5OTCujA",
+    "channelName": "Sundeep Saradhi Kanthety",
+    "views": "54K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How to use SQL in Google Colab Notebook? | Data Science | AlmaBetter",
+    "url": "https://www.youtube.com/watch?v=pO-EeLn9IsU&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pO-EeLn9IsU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiTDSVey-K4hmvtF7BGygQFOAM-Q",
+    "channelName": "AlmaBetter",
+    "views": "14K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Rust & SQL Databases (With Diesel)",
+    "url": "https://www.youtube.com/watch?v=tRC4EIKhMzw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tRC4EIKhMzw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpdatYweSF1mpecIouW4qbkv2dig",
+    "channelName": "Code to the Moon",
+    "views": "63K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQLx is my favorite PostgreSQL driver to use with Rust.",
+    "url": "https://www.youtube.com/watch?v=TCERYbgvbq0&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TCERYbgvbq0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW7Mh3YDIwmbvASzsKwuSwG18D9Q",
+    "channelName": "Dreams of Code",
+    "views": "53K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "SQL for beginners: CREATE TABLE statement",
+    "url": "https://www.youtube.com/watch?v=ch4h-y_-9u4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ch4h-y_-9u4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8i4wy7VTEFvy1JuCjx5030fvBeg",
+    "channelName": "DBeaver",
+    "views": "33K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Create Free MySQL Database Online",
+    "url": "https://www.youtube.com/watch?v=TMGHOW8Hzvw&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TMGHOW8Hzvw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN97m-k5WQk25lNYPYbTm0iLusCg",
+    "channelName": "Automation Step by Step",
+    "views": "221K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "How to connect Grafana with a SQL (Postgres) database?",
+    "url": "https://www.youtube.com/watch?v=iA4LOjzcw4E&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iA4LOjzcw4E/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB0giAAtAFigIMCAAQARhoIGgoaDAP&rs=AOn4CLCr3e7DQ5GK1hSI2xOpPDjnhP0sag",
+    "channelName": "Blueprint IoT",
+    "views": "14K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Spring Boot : How to connect with multiple databases using Spring Data JPA",
+    "url": "https://www.youtube.com/watch?v=mIFIb_JE47U&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mIFIb_JE47U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAjxJynFddLEHLB0EY1W_DgPO4fQ",
+    "channelName": "Ashok IT",
+    "views": "69K views",
+    "uploadTime": "1 year ago"
+  },
+  {
+    "title": "Docker PostgreSQL Tutorial with Persistent Data",
+    "url": "https://www.youtube.com/watch?v=G3gnMSyX-XM&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/G3gnMSyX-XM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH5a1Tr80RkfUrktyi6iqrC0gPtw",
+    "channelName": "Ben Awad",
+    "views": "67K views",
+    "uploadTime": "5 years ago"
+  },
+  {
+    "title": "Stored Procedures in Sql in Telugu | DBMS Tutorial | MySQL",
+    "url": "https://www.youtube.com/watch?v=GlpizlrCU0Q&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GlpizlrCU0Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9FUJZ09XZIiPbHeAuMaqGpzy9Gg",
+    "channelName": "Believer 01",
+    "views": "44K views",
+    "uploadTime": "3 years ago"
+  },
+  {
+    "title": "SQLite Databases With Python - Full Course",
+    "url": "https://www.youtube.com/watch?v=byHcYRpMgI4&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/byHcYRpMgI4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFRkK3uTMicBNOIKiUWKQuOCLhw",
+    "channelName": "freeCodeCamp.org",
+    "views": "672K views",
+    "uploadTime": "4 years ago"
+  },
+  {
+    "title": "Primary & Foreign Keys",
+    "url": "https://www.youtube.com/watch?v=B5r8CcTUs5Y&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/B5r8CcTUs5Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt4smvXeH1Ri5DmwwyanIbnniwEw",
+    "channelName": "Eddie Woo",
+    "views": "480K views",
+    "uploadTime": "11 years ago"
+  },
+  {
+    "title": "Group By | Having | SQL in Tamil | Logic First Tamil",
+    "url": "https://www.youtube.com/watch?v=OwMVMHhKRqY&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OwMVMHhKRqY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWMNjeGTNfZ9vJPILZk54kk-E28g",
+    "channelName": "Logic First Tamil",
+    "views": "66K views",
+    "uploadTime": "2 years ago"
+  },
+  {
+    "title": "SQLite and the N+1 (no) problem",
+    "url": "https://www.youtube.com/watch?v=qPfAQY_RahA&pp=ygUfU1FMIChNeVNRTCwgUG9zdGdyZVNRTCwgU1FMaXRlKQ%3D%3D",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qPfAQY_RahA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYRg3wKLNj5S5boMdxYtCXKpRm7g",
+    "channelName": "Mycelial",
+    "views": "7K views",
+    "uploadTime": "1 year ago"
+  }
+]
