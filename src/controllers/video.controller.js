@@ -1,12 +1,13 @@
 import { Video } from "../models/video.model.js";
 import giantService from "../services/scrap/giant.scrapper.js";
-import {youtubeQueue} from "../services/queue/youtubeQueue.js";
-import  clearQueueService  from "../services/queue/clearQueue.js";
+import { youtubeQueue } from "../services/queue/youtubeQueue.js";
+import clearQueueService from "../services/queue/clearQueue.js";
+import mongoose from "mongoose";
 
-const fetchAllYoutubeData = async(req, res)=>{
+const fetchAllYoutubeData = async (req, res) => {
     try {
-        const {limit} = req.body;
-          const queries = [
+        const { limit } = req.body;
+        const queries = [
             "Role-Based Access Control (RBAC)",
             "HTML5",
             "CSS3",
@@ -98,98 +99,173 @@ const fetchAllYoutubeData = async(req, res)=>{
             "Multi-Cloud Architectures",
             "Version Control with Git & Subversion"
         ];
-        
-          youtubeQueue.add({queries, limit})
+
+        youtubeQueue.add({ queries, limit })
 
         return res.status(200).json({
-            statusCode:200,
-            success:true,
-            message:`Data fetching from youtube starts on these topics\n ${queries} `
+            statusCode: 200,
+            success: true,
+            message: `Data fetching from youtube starts on these topics\n ${queries} `
         })
     } catch (error) {
         console.log(error)
     }
 }
 
-const getAllData = async(req,res)=>{
+const getAllData = async (req, res) => {
     try {
-      const { limit, offset} = req.query;
+        const { limit, offset } = req.query;
 
-      const limitNum = parseInt(limit, 10);
-      const offsetNum = parseInt(offset, 10);
+        const limitNum = parseInt(limit, 10);
+        const offsetNum = parseInt(offset, 10);
 
 
         const data = await Video.find({}).limit(limit).skip(offsetNum);
 
-        if(!data)return res.status(200).json({
-            statusCode:200,
-            success:true,
-            message:"No data found in DB",
+        if (!data) return res.status(200).json({
+            statusCode: 200,
+            success: true,
+            message: "No data found in DB",
         })
 
         return res.status(200).json({
-            statusCode:200,
-            success:true,
-            message:"Fetched data successfully",
-            data:data,
+            statusCode: 200,
+            success: true,
+            message: "Fetched data successfully",
+            data: data,
         })
     } catch (error) {
         return res.status(500).json({
-            statusCode:500,
-            success:false,
-            message:`Internal Server Error, Error:${error}`,
+            statusCode: 500,
+            success: false,
+            message: `Internal Server Error, Error:${error}`,
         })
     }
 }
 
-const getLatestResult = async(req, res)=>{
+const getLatestResult = async (req, res) => {
     try {
-        const { search} = req.query;
-        const queries = [];
-        queries.push(search);
-        const limit = 2;
-        const result = await giantService(queries, limit);
+        const { search, limit, offset } = req.query;
+        
+        const limitNum = Number(limit) || 10;
+        const offsetNum = Number(offset) || 0;
 
-        if(!result.length) return res.status(500).json({
-            statusCode:500,
-            success:false,
-            message:"Error while fetching data from YT",
+        let whereCondition = [];
+        // Check search query parameter
+        if (search && search !== "") {
+            // Convert search to regex for string fields
+            const regexForStringFields =
+                typeof search === "number"
+                    ? search.toString()
+                    : new RegExp(search, "i");
+            const conditions = Object.keys(Video.schema.paths)
+                .map((field) => {
+                    const fieldType = Video.schema.paths[field].instance;
+                    if (fieldType === "String") {
+                        return { [field]: regexForStringFields };
+                    } else {
+                        return null;
+                    }
+                })
+                .filter((condition) => condition !== null);
+
+            whereCondition = {
+                $or: conditions,
+            };
+        }
+
+        console.log(`where conditions `, whereCondition);
+
+        const pipeline = [
+            {
+                $match: whereCondition, // Match documents based on whereCondition
+            },
+            {
+                $project: {
+                    __v: 0,
+                    // createdAt: 0,
+                    // updatedAt: 0,
+                    // _id: 0,
+                },
+            },
+            {
+                $skip: offsetNum,
+            },
+            {
+                $limit: limitNum,
+            },
+        ];
+        const result = await Video.aggregate(pipeline)
+        if (!result.length) return res.status(500).json({
+            statusCode: 500,
+            success: false,
+            message: "Error while fetching data from YT",
         })
-          return res.status(200).json({
-              statusCode:200,
-              success:true,
-              message:"Fetched data successfully",
-              data:result,
-          })
-      } catch (error) {
-          return res.status(500).json({
-              statusCode:500,
-              success:false,
-              message:`Internal Server Error, Error:${error}`,
-          })
-      }
+        return res.status(200).json({
+            statusCode: 200,
+            success: true,
+            message: "Fetched data successfully",
+            data: result,
+        })
+    } catch (error) {
+        return res.status(500).json({
+            statusCode: 500,
+            success: false,
+            message: `Internal Server Error, Error:${error}`,
+        })
+    }
 }
 
-
-const clearQueue = async(req, res)=>{
+const clearQueue = async (req, res) => {
     try {
         const isClear = clearQueueService();
 
-        if(!isClear) throw new Error("Error while clear the queue")
-          return res.status(200).json({
-              statusCode:200,
-              success:true,
-              message:"Queue cleared successfully!",
-          })
-      } catch (error) {
-          return res.status(500).json({
-              statusCode:500,
-              success:false,
-              message:`Internal Server Error, Error:${error}`,
-          })
-      }
+        if (!isClear) throw new Error("Error while clear the queue")
+        return res.status(200).json({
+            statusCode: 200,
+            success: true,
+            message: "Queue cleared successfully!",
+        })
+    } catch (error) {
+        return res.status(500).json({
+            statusCode: 500,
+            success: false,
+            message: `Internal Server Error, Error:${error}`,
+        })
+    }
 }
 
+const updateTheCollection = async (req, res) => {
+    try {
+        const parallelVideosCursor = await mongoose.connection.collection('parallel_videos').find({});
+        const parallelVideos = await parallelVideosCursor.toArray();
+
+        const numberOfVideosToSelect = parallelVideos.length; // Set a limit or use req.query for dynamic selection
+        const set = new Set();
+
+        while (set.size < numberOfVideosToSelect) {
+            const randomIndex = Math.floor(Math.random() * parallelVideos.length); // Corrected random index generation
+            set.add(parallelVideos[randomIndex]);
+            console.log("Object pushed into the DB:", parallelVideos[randomIndex]);
+        }
+
+        const randomVideos = Array.from(set); // Convert Set back to Array
+        console.log(`random array generated ready for DB Bulk entry`);
+        await Video.insertMany(randomVideos);
+
+        res.status(200).json({
+            success: true,
+            message: "Videos collection updated successfully"
+        });
+    } catch (error) {
+        console.error("Error fetching parallel videos:", error); // Log error for debugging
+        return res.status(500).json({
+            statusCode: 500,
+            success: false,
+            message: "Internal Server Error",
+        });
+    }
+};
 
 
-export {fetchAllYoutubeData, getAllData, getLatestResult, clearQueue}
+export { fetchAllYoutubeData, getAllData, getLatestResult, clearQueue, updateTheCollection }
