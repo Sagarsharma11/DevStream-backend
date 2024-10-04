@@ -143,21 +143,96 @@ const getAllData = async (req, res) => {
     }
 }
 
+// const getLatestResult = async (req, res) => {
+//     try {
+//         const { search, limit, offset } = req.query;
+
+//         const limitNum = Number(limit) || 10;
+//         const offsetNum = Number(offset) || 0;
+
+//         let whereCondition = [];
+//         // Check search query parameter
+//         if (search && search !== "") {
+//             // Convert search to regex for string fields
+//             const regexForStringFields =
+//                 typeof search === "number"
+//                     ? search.toString()
+//                     : new RegExp(search, "i");
+//             const conditions = Object.keys(Video.schema.paths)
+//                 .map((field) => {
+//                     const fieldType = Video.schema.paths[field].instance;
+//                     if (fieldType === "String") {
+//                         return { [field]: regexForStringFields };
+//                     } else {
+//                         return null;
+//                     }
+//                 })
+//                 .filter((condition) => condition !== null);
+
+//             whereCondition = {
+//                 $or: conditions,
+//             };
+//         }
+
+//         console.log(`where conditions `, whereCondition);
+
+//         const pipeline = [
+//             {
+//                 $match: whereCondition, // Match documents based on whereCondition
+//             },
+//             {
+//                 $project: {
+//                     __v: 0,
+//                     // createdAt: 0,
+//                     // updatedAt: 0,
+//                     // _id: 0,
+//                 },
+//             },
+//             {
+//                 $skip: offsetNum,
+//             },
+//             {
+//                 $limit: limitNum,
+//             },
+//         ];
+//         const result = await Video.aggregate(pipeline)
+//         if (!result.length) return res.status(500).json({
+//             statusCode: 500,
+//             success: false,
+//             message: "Error while fetching data from YT",
+//         })
+//         return res.status(200).json({
+//             statusCode: 200,
+//             success: true,
+//             message: "Fetched data successfully",
+//             data: result,
+//         })
+//     } catch (error) {
+//         return res.status(500).json({
+//             statusCode: 500,
+//             success: false,
+//             message: `Internal Server Error, Error:${error}`,
+//         })
+//     }
+// }
+
 const getLatestResult = async (req, res) => {
     try {
         const { search, limit, offset } = req.query;
-        
-        const limitNum = Number(limit) || 10;
-        const offsetNum = Number(offset) || 0;
 
-        let whereCondition = [];
-        // Check search query parameter
+        let limitNum = Number(limit) || 12; // Default limit to 10 if not provided
+        let offsetNum = Number(offset) || 0; // Default offset to 0 if not provided
+
+        let whereCondition = {}; // Initialize as an empty object for no filtering
+
+        // If search is provided and not an empty string, create search conditions
         if (search && search !== "") {
-            // Convert search to regex for string fields
             const regexForStringFields =
                 typeof search === "number"
                     ? search.toString()
                     : new RegExp(search, "i");
+
+            // Map over the schema fields and create conditions for each string field
             const conditions = Object.keys(Video.schema.paths)
                 .map((field) => {
                     const fieldType = Video.schema.paths[field].instance;
@@ -169,52 +244,72 @@ const getLatestResult = async (req, res) => {
                 })
                 .filter((condition) => condition !== null);
 
+            // Set the whereCondition to match one or more fields
             whereCondition = {
                 $or: conditions,
             };
         }
 
-        console.log(`where conditions `, whereCondition);
+        console.log(`where conditions: `, whereCondition);
+
+        // First, count the total videos (filtered or not) based on the whereCondition
+        const totalVideos = await Video.countDocuments(whereCondition);
+
+        // Check if (limit + offset) exceeds totalVideos
+        if ((limitNum + offsetNum) > totalVideos) {
+            // Adjust limit to the number of remaining videos
+            limitNum = totalVideos - offsetNum;
+            if (limitNum < 0) {
+                limitNum = 0; // Ensure limit is not negative
+            }
+        }
 
         const pipeline = [
             {
-                $match: whereCondition, // Match documents based on whereCondition
+                $match: whereCondition, // Match documents based on whereCondition (empty object means no filter)
             },
             {
                 $project: {
-                    __v: 0,
-                    // createdAt: 0,
-                    // updatedAt: 0,
-                    // _id: 0,
+                    __v: 0, // Exclude version key
                 },
             },
             {
-                $skip: offsetNum,
+                $skip: offsetNum, // Skip results based on offset
             },
             {
-                $limit: limitNum,
+                $limit: limitNum, // Limit results based on limit
             },
         ];
-        const result = await Video.aggregate(pipeline)
-        if (!result.length) return res.status(500).json({
-            statusCode: 500,
-            success: false,
-            message: "Error while fetching data from YT",
-        })
+
+        const result = await Video.aggregate(pipeline);
+
+        // If no result is found, return an error response
+        if (!result.length) {
+            return res.status(404).json({
+                statusCode: 404,
+                success: false,
+                message: "Data Not found",
+            });
+        }
+
+        // Return the fetched data successfully
         return res.status(200).json({
+            len: totalVideos,
             statusCode: 200,
             success: true,
             message: "Fetched data successfully",
             data: result,
-        })
+        });
     } catch (error) {
+        console.error("Error in fetching data: ", error);
         return res.status(500).json({
             statusCode: 500,
             success: false,
-            message: `Internal Server Error, Error:${error}`,
-        })
+            message: `Internal Server Error: ${error.message}`,
+        });
     }
-}
+};
+
 
 const clearQueue = async (req, res) => {
     try {

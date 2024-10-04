@@ -2,7 +2,7 @@ import { app } from "./app.js";
 import { connectDB } from "./config/mongoDB.js";
 import { config } from "./config/index.js";
 
-async function main() {
+async function main() { 
     try {
         await connectDB();
         const { PORT } = config;

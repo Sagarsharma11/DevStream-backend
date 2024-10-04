@@ -1,11 +1,17 @@
 import express from "express";
 import cors from "cors";
 import morgan from "morgan";
+import fs from "fs";
+import path from "path";
 
+const __dirname = import.meta.dirname;
 const app = express();
 
-// Use morgan to log requests in the 'dev' format
-app.use(morgan('dev'));
+// Morgan Settings
+const accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' });
+app.use(morgan('combined', { stream: accessLogStream }));
+const customFormat = ':method :url :status :res[content-length] - :response-time ms';
+app.use(morgan(customFormat));
 
 app.use(cors({
     origin: "*",
@@ -33,7 +39,7 @@ app.get("/", (req, res) => {
 import UserRouter from "./routes/user.route.js";
 import VideoRouter from "./routes/video.route.js";
 
-app.use("/api/v1/users", UserRouter);
+app.use("/api/v1/user", UserRouter);
 app.use("/api/v1/videos", VideoRouter);
 
 export { app }
